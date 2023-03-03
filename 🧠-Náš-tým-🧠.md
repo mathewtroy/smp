@@ -1,4 +1,5 @@
 # **Bielená Vanessa**
+![Vanessa Bielená](https://ibb.co/6g4YGfC)
 
 # **Dmytryienko Kateryna**
 
