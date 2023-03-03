@@ -1,5 +1,5 @@
 # **Bielená Vanessa**
-![Vanessa Bielená](https://ibb.co/6g4YGfC)
+![Vanessa Bielená](https://i.ibb.co/2gjqRf4/20221012-203407.jpg)
 
 # **Dmytryienko Kateryna**
 
