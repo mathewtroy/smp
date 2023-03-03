@@ -6,6 +6,9 @@ Ahoj, volám sa Vanessa. Pochádzam zo Slovenska, z malebného mestečka menom M
 # **Dmytryienko Kateryna**
 
 # **Kross Aleksandr**
+### **O mně:**
+
+Jmenuji se Aleksandr. Ale kamarádi mi říkají Alex. :relaxed: Mám rád Computer Science :computer: ​​a matematiku :books:. Jsem studentem 🆂🅸🆃 (nejlepší studijní program na FEL CVUT). Rád pracuji na týmových projektech. Ve volném čase se věnuji studiu cizích jazyků a rád cestuji :earth_africa:.
 
 # **Kononenko Mikhailo**
 
