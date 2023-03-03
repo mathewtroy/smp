@@ -1,5 +1,5 @@
 # **Bielená Vanessa**
-<img src="https://i.ibb.co/2gjqRf4/20221012-203407.jpg" alt="Vanessa Bielená" width="300" height="400">
+<img src="https://i.ibb.co/r6vjJng/20221012-203041-20221103140345081.jpg" alt="Vanessa Bielená" width="300" height="400">
 
 
 # **Dmytryienko Kateryna**
