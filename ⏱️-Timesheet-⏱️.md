@@ -15,8 +15,8 @@
 ## **Dmytryienko Kateryna**
 | **Datum** | **Práce** | **Počet hodin** |
 |-----------|-----------|-----------------|
-| **02.02.2023** | [Nec-neco]( link) | 0 h |
-| **02.02.2023** | [Vytvoření profilu na Wiki](link) | 00 h |
+| **03.03.2023** | [Neco-neco](link) | 00 h |
+| **03.03.2023** | [Neco-neco](link) | 00 h |
 
 ##### _Celkem odpracováno: 0 h_
 
