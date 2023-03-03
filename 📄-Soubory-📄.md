@@ -1,3 +1,3 @@
 _Dokument vize>_ [Byznys analýza](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)
 
-BMP> [Business Process Model](https://drive.google.com/file/d/1t6n0r1sCHyCIr7b8FcAqEdedFdpkvZsG/view?usp=share_link)
+_BMP>_ [Business Process Model](https://drive.google.com/file/d/1t6n0r1sCHyCIr7b8FcAqEdedFdpkvZsG/view?usp=share_link)
