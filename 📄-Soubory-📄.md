@@ -1,0 +1,1 @@
+_Dokument vize>_ [Byznys analýza](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)
