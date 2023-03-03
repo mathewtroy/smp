@@ -1,7 +1,7 @@
 Tato stránka obsahuje základní osnovu každé z našich schůzek.
 
 
-# **Schůze 1 (03.02.2023)**
+# **Schůze 1 (03.03.2023)**
 
 1. **Rozdělení úkolů mezi účastníky v 1. domácím úkolu projektu**  
 2. **Time tracking**
