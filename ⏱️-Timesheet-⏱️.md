@@ -4,8 +4,7 @@
 ## **Kross Aleksandr**
 | **Datum** | **Práce** | **Počet hodin** |
 |-----------|-----------|-----------------|
-| **02.02.2023** | [Zahájení projektu, vytvoření stranek na Gitlabu]
-( https://gitlab.fel.cvut.cz/krossale/smp/) | 1 h |
+| **02.02.2023** | [Zahájení projektu, vytvoření stranek na Gitlabu]( https://gitlab.fel.cvut.cz/krossale/smp/) | 1 h |
 | **03.02.2023** | [Vytvoření skupiny na fóru Moodle](https://moodle.fel.cvut.cz/mod/forum/discuss.php?d=4284) | 0.5 h |
 
 ##### _Celkem odpracováno: 1.5 h_
