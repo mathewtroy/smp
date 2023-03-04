@@ -10,8 +10,9 @@
 | **03.03.2023** | [Vytvoření profilu na Wiki](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%A7%A0-N%C3%A1%C5%A1-t%C3%BDm-%F0%9F%A7%A0#kross-aleksandr) | 0.2 h |
 | **03.03.2022** | [Úprava stranek na Wiki](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 1.2 h |
 | **04.03.2022** | [Kontrola Business Domain Model](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 0.25 h |
+| **04.03.2022** | [Přidávání Issue](https://gitlab.fel.cvut.cz/B221_B6B36ZSO/1430_naplava/1430_naplava_blue/-/issues) | 0.2 h |
 
-##### _Celkem odpracováno: 4.35 h_
+##### _Celkem odpracováno: 4.55 h_
 
 
 ## **Dmytryienko Kateryna**
