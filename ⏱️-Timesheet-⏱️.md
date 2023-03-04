@@ -21,7 +21,7 @@
 | **04.03.2023** | [Vytvoření Business požadavky (BRQ) včetně vazeb na business cíle ](link) | 1 h |
 
 
-##### _Celkem odpracováno: 0 h_
+##### _Celkem odpracováno: 1 h_
 
 
 ## **Kononenko Mikhailo**
