@@ -26,11 +26,11 @@
 | **Datum** | **Práce** | **Počet hodin** |
 |-----------|-----------|-----------------|
 | **03.03.2022** | [1. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 1.2 h |
-| **04.03.2022** | [Create table of evaluation](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 1 h |
-
+| **04.03.2022** | [Create table of evaluation](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1 h |
+| **04.03.2022** | [Create domain model](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 1.5 h |
 | **03.03.2023** | [Neco-neco](link) | 00 h |
 
-##### _Celkem odpracováno: 2.2 h_
+##### _Celkem odpracováno: 3.7 h_
 
 
 
