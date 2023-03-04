@@ -4,6 +4,7 @@
 Ahoj, volám sa Vanessa. Pochádzam zo Slovenska, z malebného mestečka menom Martin. Študujem Softwarové inžinierstvo na fakulte FEL. Medzi moje záľuby patrí makeup, vrhanie nožmi a rituálne obetovania detí démonom.
 
 # **Dmytryienko Kateryna**
+Ahoj! Jmenuju se Kateryna Dmytryienko. Je mi 20 let, studuji FEL SIT. Baví mě programování a hlavně ráda plním úkoly, které nezvládám za první pokus, protože ukazuje mi to, čemu se musím ještě naučit a jak se mám dále rozvíjet. Volný čas trávím hlavně za vařením jídla a ve fitku, kam se snažím chodit aspoň jednou týdně. 
 
 # **Kross Aleksandr**
 
