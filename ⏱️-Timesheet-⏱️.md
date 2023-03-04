@@ -18,8 +18,8 @@
 ## **Dmytryienko Kateryna**
 | **Datum** | **Práce** | **Počet hodin** |
 |-----------|-----------|-----------------|
-| **03.03.2023** | [Neco-neco](link) | 00 h |
-| **03.03.2023** | [Neco-neco](link) | 00 h |
+| **04.03.2023** | [Vytvoření Business požadavky (BRQ) včetně vazeb na business cíle ](link) | 1 h |
+
 
 ##### _Celkem odpracováno: 0 h_
 
