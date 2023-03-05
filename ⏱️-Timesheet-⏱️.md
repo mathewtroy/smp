@@ -46,8 +46,9 @@
 | **03.03.2022** | [1. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 1.2 h |
 | **04.03.2022** | [Výpočet nákladů a zisků projektu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/10) | 3 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 1 h |
+| **05.03.2022** | [Práce na GitLabu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/12) | 0.5 h |
 
-##### _Celkem odpracováno: 5.2 h_
+##### _Celkem odpracováno: 5.7 h_
 
 
 
