@@ -14,3 +14,14 @@ Tato stránka obsahuje základní osnovu každé z našich schůzek.
 5. **Naplánování dalšího meetingu**
 
 _Délka schůzky: 1 hodina 10 minut_ 
+
+# **Schůze 2 (05.03.2023)**
+
+1. **Rozdělení rolí**  
+2. **Kontrola prvního domácího úkolu**  
+3. **Odeslání domácích úkolů na fórum**
+4. **Příprava otázek na konzultaci**
+5. **Plánování další schůzky**
+6. **Hodnoceni týmu**
+
+_Délka schůzky: 1 hodina 
