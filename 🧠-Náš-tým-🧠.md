@@ -21,5 +21,5 @@ Jmenuji se Aleksandr. Ale kamarádi mi říkají Alex. :relaxed: Mám rád Compu
 
 # **Andronov Nikita**
 ## :bookmark:**Vedoucí týmu**
-![fotka](uploads/6e112d224dde8c57f1f8f1044bd4dd6b/fotka.jpeg)
+![fotka](uploads/0a75cd94a5a4939f8f82f3b479207e53/fotka.jpeg)
 Ahoj, jmenuji se Nikita, jsem studentem prvního ročníku SITu na FELu. Volný čas trávím hraním počítačových her a posloucháním hudby. Mám rád programování.
