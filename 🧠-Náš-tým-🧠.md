@@ -12,7 +12,7 @@ Ahoj! Jmenuju se Kateryna Dmytryienko. Je mi 20 let, studuji FEL SIT. Baví mě 
 # **Kross Aleksandr**
 ## :bookmark:**Administrátor projektu**
 
-![pictures](uploads/2c65e3e4e34cd84bed3bd5ceced66206/pictures.jpg)
+![smp](uploads/96030b412af246dd3ea009d8e3cd79c4/smp.jpg)
 ### **O mně:**
 Jmenuji se Aleksandr. Ale kamarádi mi říkají Alex. :relaxed: Mám rád Computer Science :computer: ​​a matematiku :books:. Jsem studentem 🆂🅸🆃 (nejlepší studijní program na FEL CVUT). Rád pracuji na týmových projektech. Ve volném čase se věnuji studiu cizích jazyků a rád cestuji :earth_africa:.
 
