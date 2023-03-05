@@ -7,6 +7,7 @@ Ahoj, volám sa Vanessa. Pochádzam zo Slovenska, z malebného mestečka menom M
 
 # **Dmytryienko Kateryna**
 ## :bookmark:**Projektový manažer**
+![photo_2023-03-05_23-22-58](uploads/96c0840c0c3e1f95769e55de88723d2b/photo_2023-03-05_23-22-58.jpg)
 Ahoj! Jmenuju se Kateryna Dmytryienko. Je mi 20 let, studuji FEL SIT. Baví mě programování a hlavně ráda plním úkoly, které nezvládám za první pokus, protože ukazuje mi to, čemu se musím ještě naučit a jak se mám dále rozvíjet. Volný čas trávím hlavně za vařením jídla a ve fitku, kam se snažím chodit aspoň jednou týdně. 
 
 # **Kross Aleksandr**
