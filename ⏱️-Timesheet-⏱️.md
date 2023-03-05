@@ -13,8 +13,9 @@
 | **04.03.2023** | [Přidávání Issue](https://gitlab.fel.cvut.cz/B221_B6B36ZSO/1430_naplava/1430_naplava_blue/-/issues) | 0.2 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
 | **05.03.2023** | [Úprava stranek na Wiki: Timesheet, Náš tým, Issue](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.25 h |
+| **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.2 h |
 
-##### _Celkem odpracováno: 5.8 h_
+##### _Celkem odpracováno: 6.0 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -22,9 +23,10 @@
 |-----------|-----------|-----------------|
 | **04.03.2023** | [Vytvoření Business požadavky (BRQ) včetně vazeb na business cíle ](link) | 1 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
+| **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.2 h |
 
 
-##### _Celkem odpracováno: 2 h_
+##### _Celkem odpracováno: 2.2 h_
 
 
 ## **Kononenko Mikhailo**
