@@ -17,6 +17,8 @@ Ahoj! Jmenuju se Kateryna Dmytryienko. Je mi 20 let, studuji FEL SIT. Baví mě 
 Jmenuji se Aleksandr. Ale kamarádi mi říkají Alex. :relaxed: Mám rád Computer Science :computer: ​​a matematiku :books:. Jsem studentem 🆂🅸🆃 (nejlepší studijní program na FEL CVUT). Rád pracuji na týmových projektech. Ve volném čase se věnuji studiu cizích jazyků a rád cestuji :earth_africa:.
 
 # **Kononenko Mikhailo**
+## :bookmark:**Byznys analytik**
 
 # **Andronov Nikita**
+## :bookmark:**Vedoucí týmu**
 Ahoj, jmenuji se Nikita, jsem studentem prvního ročníku SITu na FELu. Volný čas trávím hraním počítačových her a posloucháním hudby. Mám rád programování.
