@@ -24,4 +24,4 @@ _Délka schůzky: 1 hodina 10 minut_
 5. **Plánování další schůzky**
 6. **Hodnoceni týmu**
 
-_Délka schůzky: 1 hodina 
+Délka schůzky: 1 hodina 
