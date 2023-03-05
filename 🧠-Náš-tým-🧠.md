@@ -1,4 +1,5 @@
 # **Bielená Vanessa**
+## :bookmark:**Grafička**
 <img src="https://i.ibb.co/r6vjJng/20221012-203041-20221103140345081.jpg" alt="Vanessa Bielená" width="200" height="280">
 
 Ahoj, volám sa Vanessa. Pochádzam zo Slovenska, z malebného mestečka menom Martin. Študujem Softwarové inžinierstvo na fakulte FEL. Medzi moje záľuby patrí makeup, vrhanie nožmi a rituálne obetovania detí démonom.
@@ -7,6 +8,7 @@ Ahoj, volám sa Vanessa. Pochádzam zo Slovenska, z malebného mestečka menom M
 Ahoj! Jmenuju se Kateryna Dmytryienko. Je mi 20 let, studuji FEL SIT. Baví mě programování a hlavně ráda plním úkoly, které nezvládám za první pokus, protože ukazuje mi to, čemu se musím ještě naučit a jak se mám dále rozvíjet. Volný čas trávím hlavně za vařením jídla a ve fitku, kam se snažím chodit aspoň jednou týdně. 
 
 # **Kross Aleksandr**
+## :bookmark:**Administrátor projektu**
 
 ![pictures](uploads/2c65e3e4e34cd84bed3bd5ceced66206/pictures.jpg)
 ### **O mně:**
