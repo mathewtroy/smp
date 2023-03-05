@@ -1,6 +1,6 @@
 ##  [**⏱️ Timesheet ⏱️**](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F)
 
-##  [**💡 Schůzky 💡**](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%93%84-Soubory-%F0%9F%93%84)
+##  [**💡 Schůzky 💡**](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1)
 
 ##  [**📄 Soubory 📄**](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%93%84-Soubory-%F0%9F%93%84)
 
