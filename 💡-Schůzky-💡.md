@@ -17,7 +17,12 @@ _Délka schůzky: 1 hodina 10 minut_
 
 # **Schůze 2 (05.03.2023)**
 
-1. **Rozdělení rolí**  
+1. **Rozdělení rolí** 
+     Bielená Vanessa - Grafička
+     Dmytryienko Kateryna - Projektový manažer
+     Kross Aleksandr - Administrátor projektu
+     Kononenko Mikhailo - Byznys analytik
+     Andronov Nikita - Vedoucí týmu
 2. **Kontrola prvního domácího úkolu**  
 3. **Odeslání domácích úkolů na fórum**
 4. **Příprava otázek na konzultaci**
