@@ -63,5 +63,5 @@
 | **03.03.2023** | [Vytvoření dokumentace popisu ku BPM](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%93%84-Soubory-%F0%9F%93%84) | 0.5 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
 
-##### _Celkem odpracováno: 5.1 h_
+##### _Celkem odpracováno: 4.9 h_
 
