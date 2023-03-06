@@ -19,6 +19,8 @@ Jmenuji se Aleksandr. Ale kamarádi mi říkají Alex. :relaxed: Mám rád Compu
 
 # **Kononenko Mikhailo**
 ## :bookmark:**Byznys analytik**
+### **O mně:**
+Jmenuji se Mikhailo, jsem studentem prvního ročníku na české univerzitě, absolvoval jsem 3 kurzy na ukrajinské univerzitě. Rád čtu knihy a učím se
 
 # **Andronov Nikita**
 ## :bookmark:**Vedoucí týmu**
