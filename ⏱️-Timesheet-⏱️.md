@@ -36,9 +36,10 @@
 | **04.03.2023** | [Create table of evaluation](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1 h |
 | **04.03.2023** | [Create domain model](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 1.5 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
+| **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.2 h |
+| **05.03.2023** | [Vytvoření profilu na Wiki](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.3 h |
 
-
-##### _Celkem odpracováno: 4.7 h_
+##### _Celkem odpracováno: 5.2 h_
 
 
 
