@@ -26,7 +26,7 @@
 | **04.03.2023** | [Vytvoření Business požadavky (BRQ) včetně vazeb na business cíle ](link) | 1 h |
 | **04.03.2023** | [Vytvoření profilu na Wiki ](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%A7%A0-N%C3%A1%C5%A1-t%C3%BDm-%F0%9F%A7%A0#dmytryienko-kateryna) | 0.2 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
-| **05.03.2023** | [Vytvoření otázek ke konzultaci]
+| **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.2 h|
 | **10.03.2023** | Vypracování 6. týmového domácího úkolu | 1 h |
 
 
