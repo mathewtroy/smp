@@ -28,7 +28,7 @@
 | **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.2 h |
 
 
-##### _Celkem odpracováno: 2.2 h_
+##### _Celkem odpracováno: 2.4 h_
 
 
 ## **Kononenko Mikhailo**
