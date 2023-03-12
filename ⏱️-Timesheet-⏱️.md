@@ -78,8 +78,7 @@
 | **03.03.2022** | [1. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 1.2 h |
 | **03.03.2023** | [Vytvoření profilu na Wiki](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%A7%A0-N%C3%A1%C5%A1-t%C3%BDm-%F0%9F%A7%A0#bielen%C3%A1-vanessa) | 0.2 h |
 | **03.03.2023** | [Vytvoření Business Process Modelu](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%93%84-Soubory-%F0%9F%93%84) | 2 h |
-| **03.03.2023** | [Vytvoření dokumentace popisu ku BPM]
-(https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%93%84-Soubory-%F0%9F%93%84) | 0.5 h |
+| **03.03.2023** | [Vytvoření dokumentace popisu ku BPM](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%93%84-Soubory-%F0%9F%93%84) | 0.5 h |
 | **05.03.2023** | [Přidávání issues](link) | 0.1 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
 | **09.03.2023** | [Vytvoření loga](link) | 2,5 h |
