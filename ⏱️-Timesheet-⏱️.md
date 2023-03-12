@@ -38,13 +38,19 @@
 | **Datum** | **Práce** | **Počet hodin** |
 |-----------|-----------|-----------------|
 | **03.03.2023** | [1. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 1.2 h |
-| **04.03.2023** | [Create table of evaluation](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1 h |
+| **04.03.2023** | [Create table of evaluation](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1.0 h |
 | **04.03.2023** | [Create domain model](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 1.5 h |
-| **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
+| **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1.0 h |
 | **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.2 h |
 | **05.03.2023** | [Vytvoření profilu na Wiki](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.3 h |
 
-##### _Celkem odpracováno: 5.2 h_
+| **08.03.2023** | [Změňte písmo a naformátujte dokument](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.0 h |
+| **09.03.2023** | [Přidání domovské stránky](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.3 h |
+| **09.03.2023** | [Přidání SMART](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.0 h |
+| **09.03.2023** | [Změna modelu domény](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.1 h |
+| **10.03.2023** | [Konzultace (schůzka) o 6 domácích úkolech](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.6 h |
+| **11.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.3 h |
+##### _Celkem odpracováno: 9.5 h_
 
 
 
