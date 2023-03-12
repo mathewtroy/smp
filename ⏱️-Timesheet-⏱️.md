@@ -51,7 +51,9 @@
 | **11.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.3 h |
 | **12.03.2023** | [Přidání Uživatel](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.9 h |
 | **12.03.2023** | [Formátování dokumentu](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.1 h |
-##### _Celkem odpracováno: 10.5 h_
+| **12.03.2023** | [Napište otázku na schůzku](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.05 h |
+| **12.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.05 h |
+##### _Celkem odpracováno: 10.6 h_
 
 
 
