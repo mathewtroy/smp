@@ -49,7 +49,6 @@
 | **09.03.2023** | [Změna modelu domény](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.1 h |
 | **10.03.2023** | [Konzultace (schůzka) o 6 domácích úkolech](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.6 h |
 | **11.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.3 h |
-
 | **12.03.2023** | [Přidání Uživatel](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.9 h |
 | **12.03.2023** | [Formátování dokumentu](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.1 h |
 ##### _Celkem odpracováno: 10.5 h_
