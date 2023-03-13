@@ -16,7 +16,7 @@
 | **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.2 h |
 | **06.03.2023** | 1. konzultace | 0.5 h |
 | **06.03.2023** | [Vytvoření template BPMN AS-IS, TO-BE ](link) | 1.5 h |
-| **10.03.2023** | [Vypracování 6. týmového domácího úkolu](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 0.5 h |
+| **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 1.5 h |
 | **13.03.2023** | Pomoct ostatním členům týmů z 6. domácím úkolem. | 0.5 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 
@@ -31,7 +31,7 @@
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
 | **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.2 h|
 | **06.03.2023** | 1. konzultace | 0.5 h |
-| **10.03.2023** | Vypracování 6. týmového domácího úkolu | 1 h |
+| **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 1 h |
 | **11.03.2023** | Zlepšení a modifikace Business požadavků | 1.2 h |
 | **12.03.2023** | Vytvoření BRQ | |
 | **13.03.2023** | 2. konzultace | 0.6 h |
@@ -54,7 +54,7 @@
 | **09.03.2023** | [Přidání domovské stránky](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.3 h |
 | **09.03.2023** | [Přidání SMART](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.0 h |
 | **09.03.2023** | [Změna modelu domény](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.1 h |
-| **10.03.2023** | [Konzultace (schůzka) o 6 domácích úkolech](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.6 h |
+| **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 0.6 h |
 | **11.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.3 h |
 | **12.03.2023** | [Přidání Uživatel](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.9 h |
 | **12.03.2023** | [Formátování dokumentu](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.1 h |
@@ -75,6 +75,7 @@
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
 | **05.03.2022** | [Práce na GitLabu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/12) | 0.5 h |
 | **06.03.2023** | 1. konzultace | 0.5 h |
+| **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 1 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 
 ##### _Celkem odpracováno: 6.8 h_
@@ -92,6 +93,7 @@
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
 | **06.03.2023** | 1. konzultace | 0.5 h |
 | **09.03.2023** | [Vytvoření loga](link) | 2.5 h |
+| **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 0.5 h |
 | **12.03.2023** | [Oprava Business Process Modelu](link) | 1.5 h |
 | **11.03.2023** | Vypracování 6. týmového domácího úkolu | 1.5 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
