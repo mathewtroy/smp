@@ -39,7 +39,7 @@
 | **13.03.2023** | 2. konzultace | 0.6 h |
 
 
-##### _Celkem odpracováno: 5.7 h_
+##### _Celkem odpracováno: 6.3 h_
 
 
 ## **Kononenko Mikhailo**
