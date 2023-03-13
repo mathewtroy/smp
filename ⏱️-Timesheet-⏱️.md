@@ -35,12 +35,12 @@
 | **06.03.2023** | 1. konzultace | 0.5 h |
 | **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 1 h |
 | **11.03.2023** | Zlepšení a modifikace Business požadavků | 1.2 h |
-| **12.03.2023** | Vytvoření BRQ | |
+| **12.03.2023** | Vytvoření BRQ | 0.6 h |
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 
 
-##### _Celkem odpracováno: 6.3 h_
+##### _Celkem odpracováno: 6.9 h_
 
 
 ## **Kononenko Mikhailo**
