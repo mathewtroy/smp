@@ -105,5 +105,5 @@
 
 
 
-##### _Celkem odpracováno: 11.6 h_
+##### _Celkem odpracováno: 12.7 h_
 
