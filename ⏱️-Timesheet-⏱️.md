@@ -82,7 +82,7 @@
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 
-##### _Celkem odpracováno: 6.8 h_
+##### _Celkem odpracováno: 8.4 h_
 
 
 
