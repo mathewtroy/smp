@@ -35,7 +35,7 @@ _Délka schůzky: 1 hodina_
 # **Schůze 3 (10.03.2023)**
 
 1. **Neco-neco**  
-2. **Neco-neco**
+2. **Kontrola dokumentu Víze**
    1. Neco   
 3. **Neco-neco**
    1. Neco  
@@ -51,12 +51,8 @@ _Délka schůzky: 1 hodina 30 minut_
 
 # **Schůze 4 (12.03.2023)**
 
-1. **Neco-neco**  
-2. **Neco-neco**
-   1. Neco   
-3. **Neco-neco**
-   1. Neco  
-4. **Naplánování dalšího meetingu**
-5. **Hodnoceni týmu**
+1. **Kontrola dokumentu víze** 
+2. **Nastavení harmonogramu schůzek**
+3. **Hodnoceni týmu**
 
 _Délka schůzky: 35 minut_ 
