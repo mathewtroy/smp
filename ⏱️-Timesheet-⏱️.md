@@ -16,10 +16,11 @@
 | **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.2 h |
 | **06.03.2023** | 1. konzultace | 0.5 h |
 | **06.03.2023** | [Vytvoření template BPMN AS-IS, TO-BE ](link) | 1.5 h |
-| **10.03.2023** | Vypracování 6. týmového domácího úkolu | 1.5 h |
+| **10.03.2023** | Vypracování 6. týmového domácího úkolu | 0.5 h |
+| **13.03.2023** | Pomoct ostatním členům týmů z 6. domácím úkolem. | 0.5 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 
-##### _Celkem odpracováno: 10.1 h_
+##### _Celkem odpracováno: 10.6 h_
 
 
 ## **Dmytryienko Kateryna**
