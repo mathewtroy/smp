@@ -21,7 +21,7 @@
 | **12.03.2023** | Pomoct ostatním členům týmů z 6. domácím úkolem. | 0.5 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 
-##### _Celkem odpracováno: 10.6 h_
+##### _Celkem odpracováno: 11.2 h_
 
 
 ## **Dmytryienko Kateryna**
