@@ -64,7 +64,9 @@
 | **12.03.2023** | [Napište otázku na schůzku](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.05 h |
 | **12.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.05 h |
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
-
+| **13.03.2023** | [Domácí úkol č. 6, přenos dat](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.5 h |
+| **14.03.2023** | [Oprava Business Domain Model](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.8 h |
+| **14.03.2023** | [Práce s GitLabem(doplnění informací o 4. setkání, doplnění informací o prac)](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.2 h |
 ##### _Celkem odpracováno: 11.6 h_
 
 
