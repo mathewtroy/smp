@@ -48,6 +48,8 @@ _Délka schůzky: 1 hodina 30 minut_
 
 1. **Kontrola dokumentu víze** 
 2. **Nastavení harmonogramu schůzek**
-3. **Hodnoceni týmu**
+3. **Vypracováno hodnocení v týmu, jsou popsány důvody takového hodnocení.**
+4. **Dohodli jsme se, že vytvoříme přesný čas pro všechna data setkání, která se konají v pátek a neděli.**
+5. **Kontrola doplnění všech údajů o práci každého účastníka**
 
 _Délka schůzky: 35 minut_ 
