@@ -1,3 +1,5 @@
+<a href="https://ibb.co/yPKtc7R"><img src="https://i.ibb.co/LRBmXHP/SMPlogoupdate.png" alt="SMPlogoupdate" border="0"></a>
+
 ##  [**⏱️ Timesheet ⏱️**](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F)
 
 ##  [**💡 Schůzky 💡**](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1)
