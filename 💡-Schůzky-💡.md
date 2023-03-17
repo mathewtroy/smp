@@ -75,8 +75,8 @@ _Délka schůzky: 35 minut_
 - **tipy pro změnu cílů a financí**
 3. **Diskutovali jsme o vytvoření prezentace a vedení dalších hodin, vytvořili jsme diskusi o tom, jak budou prezentace probíhat.**
 # **Při osobní schůzce bez učitele**
-- **Projednáno další jednání**
-- **Rozdělili jsme úkoly projektu AS-IS**
-- **Projednané úkoly do neděle**
+1. **Projednáno další jednání**
+2. **Rozdělili jsme úkoly projektu AS-IS**
+3. **Projednané úkoly do neděle**
 
 _Délka schůzky: 80 minut_ 
