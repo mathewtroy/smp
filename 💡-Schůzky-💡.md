@@ -74,9 +74,9 @@ _Délka schůzky: 35 minut_
 - **SMART odstranění**
 - **tipy pro změnu cílů a financí**
 4. **Diskutovali jsme o vytvoření prezentace a vedení dalších hodin, vytvořili jsme diskusi o tom, jak budou prezentace probíhat.**
-1. **Při osobní schůzce bez učitele**
-2. **Projednáno další jednání**
-3. **Rozdělili jsme úkoly projektu AS-IS**
-4. **Projednané úkoly do neděle**
+**Při osobní schůzce bez učitele**
+1. 2. **Projednáno další jednání**
+1. 3. **Rozdělili jsme úkoly projektu AS-IS**
+1. 4. **Projednané úkoly do neděle**
 
 _Délka schůzky: 80 minut_ 
