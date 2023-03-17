@@ -79,4 +79,4 @@ _Délka schůzky: 35 minut_
 2. **Rozdělili jsme úkoly projektu AS-IS**
 3. **Projednané úkoly do neděle**
 
-_Délka schůzky: 80 minut_ 
+_Délka schůzky: 1 hodina 20 minut_
