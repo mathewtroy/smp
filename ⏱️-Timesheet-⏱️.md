@@ -21,8 +21,9 @@
 | **12.03.2023** | Pomoct ostatním členům týmů z 6. domácím úkolem | 0.5 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 | **13.03.2023** | [Úprava stranek na Wiki: Timesheet, Schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.6 h |
+| **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 
-##### _Celkem odpracováno: 11.8 h_
+##### _Celkem odpracováno: 13.1 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -39,9 +40,9 @@
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 | **16.03.2023** | Promyšlení hlávních cilí projektu. | 0.5 h |
+| **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 
-
-##### _Celkem odpracováno: 7.4 h_
+##### _Celkem odpracováno: 8.7 h_
 
 
 ## **Kononenko Mikhailo**
@@ -69,7 +70,8 @@
 | **14.03.2023** | [Oprava Business Domain Model](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.3 h |
 | **14.03.2023** | [Přidány informace do tabulky Známky](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.1 h |
 | **14.03.2023** | [Práce s GitLabem(doplnění informací o 4. setkání, doplnění informací o prac)](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.2 h |
-##### _Celkem odpracováno: 12.7 h_
+| **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
+##### _Celkem odpracováno: 14.0 h_
 
 
 
@@ -86,8 +88,9 @@
 | **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 1 h |
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
+| **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 
-##### _Celkem odpracováno: 8.4 h_
+##### _Celkem odpracováno: 9.7 h_
 
 
 
@@ -107,8 +110,8 @@
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
 | **11.03.2023** | Vypracování 6. týmového domácího úkolu | 1.5 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
+| **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 
 
-
-##### _Celkem odpracováno: 12.7 h_
+##### _Celkem odpracováno: 14.0 h_
 
