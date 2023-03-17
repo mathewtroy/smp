@@ -62,18 +62,18 @@ _Délka schůzky: 35 minut_
 
 # **Schůze 5 (17.03.2023)**
 
-1. **Provedení osobní schůzky s vyučujícím daného předmětu.**
-2. **Diskutovali jsme o následujících grafech:**
+# **Provedení osobní schůzky s vyučujícím daného předmětu.**
+1. **Diskutovali jsme o následujících grafech:**
 - **BDM - kontrola plnění, tipy pro změnu údajů**
 - **AS-IS - tipy pro tvorbu, kontrola vytvořeného**
 - **BRQ a BPMN - kontrola, vše v pořádku**
-3. **Diskutovaný dokument:**
+2. **Diskutovaný dokument:**
 - **změna struktury projektu**
 - **přidání obsahu**
 - **přidání důvodů pro vývoj projektu**
 - **SMART odstranění**
 - **tipy pro změnu cílů a financí**
-4. **Diskutovali jsme o vytvoření prezentace a vedení dalších hodin, vytvořili jsme diskusi o tom, jak budou prezentace probíhat.**
+3. **Diskutovali jsme o vytvoření prezentace a vedení dalších hodin, vytvořili jsme diskusi o tom, jak budou prezentace probíhat.**
 # **Při osobní schůzce bez učitele**
 - **Projednáno další jednání**
 - **Rozdělili jsme úkoly projektu AS-IS**
