@@ -84,6 +84,7 @@
 | **04.03.2022** | [Výpočet nákladů a zisků projektu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/10) | 3 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
 | **05.03.2022** | [Práce na GitLabu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/12) | 0.5 h |
+| **05.03.2023** | [Vytvoření profilu na Wiki]https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%A7%A0-N%C3%A1%C5%A1-t%C3%BDm-%F0%9F%A7%A0#andronov-nikita) | 0.2 h |
 | **06.03.2023** | 1. konzultace | 0.5 h |
 | **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 1 h |
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
