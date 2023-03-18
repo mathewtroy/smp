@@ -118,7 +118,9 @@
 | **11.03.2023** | Vypracování 6. týmového domácího úkolu | 1.5 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
+| **17.03.2023** | Vypracování nových BPM diagramů Account creation, Account cancellation, Validation a Loan | 2.5 h |
+| **18.03.2023** | Přidání popisů k diagramům | 1 h |
 
 
-##### _Celkem odpracováno: 14.0 h_
+##### _Celkem odpracováno: 17.5 h_
 
