@@ -26,7 +26,7 @@
 | **18.03.2023** | [Vytvoření BPM v EA, kontola a úprava dalších BPM]() | 2.5 h |
 
 
-##### _Celkem odpracováno: 14.1 h_
+##### _Celkem odpracováno: 16.6 h_
 
 
 ## **Dmytryienko Kateryna**
