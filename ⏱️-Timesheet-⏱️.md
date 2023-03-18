@@ -21,9 +21,12 @@
 | **12.03.2023** | Pomoct ostatním členům týmů z 6. domácím úkolem | 0.5 h |
 | **13.03.2023** | 2. konzultace | 0.6 h |
 | **13.03.2023** | [Úprava stranek na Wiki: Timesheet, Schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.6 h |
+| **16.03.2023** | [Vytvoření BPM v EA]() | 1 h |
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
+| **18.03.2023** | [Vytvoření BPM v EA, kontola a úprava dalších BPM]() | 2.5 h |
 
-##### _Celkem odpracováno: 13.1 h_
+
+##### _Celkem odpracováno: 14.1 h_
 
 
 ## **Dmytryienko Kateryna**
