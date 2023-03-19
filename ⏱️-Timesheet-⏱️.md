@@ -82,7 +82,7 @@
 | **18.03.2023** | [Přidání dvou nových AS-IS diagramů s if else](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/3) | 2.2 h |
 | **18.03.2023** | [Přenos prezentace online](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.3 h |
 | **19.03.2023** | [Přidávání práce do tabulky hodnocení](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.2 h |
-| **19.03.2023** | [Naplnění gitlabu prací odvedenou za týden, přidání „issues“](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.3 h |
+| **19.03.2023** | [Naplnění gitlabu prací odvedenou za týden, přidání „issues“](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 0.3 h |
 
 
 
