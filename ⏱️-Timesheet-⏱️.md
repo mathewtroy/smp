@@ -75,7 +75,18 @@
 | **14.03.2023** | [Přidány informace do tabulky Známky](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.1 h |
 | **14.03.2023** | [Práce s GitLabem(doplnění informací o 4. setkání, doplnění informací o prac)](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.2 h |
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
-##### _Celkem odpracováno: 14.0 h_
+| **17.03.2023** | [Tvorba obsahu](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.5 h |
+| **17.03.2023** | [Přidávání schůzek 4 a 5 do gitlabu](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.4 h |
+| **18.03.2023** | [Přidání informací o zákaznících](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/3) | 0.7 h |
+| **18.03.2023** | [Změna BDM modelu po konzultaci, přidání nových polí, změna struktury](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/3) | 0.3 h |
+| **18.03.2023** | [Přidání dvou nových AS-IS diagramů s if else](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/3) | 2.2 h |
+| **18.03.2023** | [Přenos prezentace online](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.3 h |
+| **19.03.2023** | [Přidávání práce do tabulky hodnocení](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.2 h |
+| **19.03.2023** | [Naplnění gitlabu prací odvedenou za týden, přidání „issues“](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.3 h |
+
+
+
+##### _Celkem odpracováno: 18.9 h_
 
 
 
