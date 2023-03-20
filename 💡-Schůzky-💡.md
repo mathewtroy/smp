@@ -58,10 +58,7 @@ _Délka schůzky: 35 minut_
 
 
 
-
-1. **Rozdělení úkolů mezi účastníky v 1. domácím úkolu projektu**  
-2. **Time tracking**
-   1. Vysvětlení time-trackingu v GitLabu   
+ 
 # **Schůze 5 (17.03.2023)**
 
 1. **Provedení osobní schůzky s vyučujícím předmětu.**
@@ -80,5 +77,18 @@ _Délka schůzky: 35 minut_
    1. **Projednáno další jednání**
    2. **Rozdělili jsme úkoly projektu AS-IS**
    3. **Projednané úkoly do neděle**
+
+_Délka schůzky: 1 hodina 20 minut_
+
+
+
+# **Schůze 6 (19.03.2023)**
+1. Kontrola dokumentů
+2. Kontrola správnosti uvedení tabulek, údajů a částí v dokumentu
+3. Odeslání dokumentu našemu učiteli
+4. Přidělování bodů členům skupiny na základě práce vykonané během týdne
+5. Změna některých AS-IS diagramů
+6. Přidání dat grafu do dokumentace
+
 
 _Délka schůzky: 1 hodina 20 minut_
