@@ -24,9 +24,9 @@
 | **16.03.2023** | [Vytvoření BPM v EA]() | 1 h |
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 | **18.03.2023** | [Vytvoření BPM v EA, kontola a úprava dalších BPM]() | 2.5 h |
+| **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 
-
-##### _Celkem odpracováno: 16.6 h_
+##### _Celkem odpracováno: 17.9 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -45,8 +45,9 @@
 | **16.03.2023** | Promyšlení hlávních cilí projektu. | 0.5 h |
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 | **18.03.2023** | Vytvoření BRQ | 0.6 h |
+| **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 
-##### _Celkem odpracováno: 9.3 h_
+##### _Celkem odpracováno: 10.6 h_
 
 
 ## **Kononenko Mikhailo**
@@ -83,10 +84,11 @@
 | **18.03.2023** | [Přenos prezentace online](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.3 h |
 | **19.03.2023** | [Přidávání práce do tabulky hodnocení](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.2 h |
 | **19.03.2023** | [Naplnění gitlabu prací odvedenou za týden, přidání „issues“](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 0.3 h |
+| **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.0 h |
 
 
 
-##### _Celkem odpracováno: 18.9 h_
+##### _Celkem odpracováno: 19.9 h_
 
 
 
@@ -107,8 +109,9 @@
 | **13.03.2023** | [Práce s financemi](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/23) | 2 h |
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 | **18.03.2023** | [Práce s financemi](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/23) | 1 h |
+| **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 
-##### _Celkem odpracováno: 12.9 h_
+##### _Celkem odpracováno: 14.2 h_
 
 
 
@@ -131,7 +134,8 @@
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 | **17.03.2023** | Vypracování nových BPM diagramů Account creation, Account cancellation, Validation a Loan | 2.5 h |
 | **18.03.2023** | Přidání popisů k diagramům | 1 h |
+| **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.8 h |
 
 
-##### _Celkem odpracováno: 17.5 h_
+##### _Celkem odpracováno: 18.3 h_
 
