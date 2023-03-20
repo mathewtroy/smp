@@ -48,9 +48,8 @@ _Délka schůzky: 1 hodina 30 minut_
 
 1. **Kontrola dokumentu víze** 
 2. **Nastavení harmonogramu schůzek**
-3. **Vypracováno hodnocení v týmu, jsou popsány důvody takového hodnocení.**
-4. **Dohodli jsme se, že vytvoříme přesný čas pro všechna data setkání, která se konají v pátek a neděli.**
-5. **Kontrola doplnění všech údajů o práci každého účastníka**
+3. **Hodnocení týmu**
+4. **Kontrola doplnění všech údajů o práci každého účastníka**
 
 _Délka schůzky: 35 minut_ 
 
@@ -62,21 +61,21 @@ _Délka schůzky: 35 minut_
 # **Schůze 5 (17.03.2023)**
 
 1. **Provedení osobní schůzky s vyučujícím předmětu.**
-   1. **Diskutovali jsme o následujících diagramech:**
+   1. **Analýza diagramů:**
       1. **BDM - kontrola plnění, tipy pro změnu údajů**
       2. **AS-IS - tipy pro tvorbu, kontrola vytvořeného**
-      3. BRQ a BPMN - kontrola, vše v pořádku**
+      3. BRQ a BPMN - kontrola, úprava**
    2. **Diskutovaný dokument:**
-      1. **změna struktury projektu**
-      2. **přidání obsahu**
-      3. **přidání důvodů pro vývoj projektu**
+      1. **Změna struktury projektu**
+      2. **Přidání obsahu**
+      3. **Přidání důvodů pro vývoj projektu**
       4. **SMART odstranění**
-      5. **tipy pro změnu cílů a financí**
-   3. **Diskutovali jsme o vytvoření prezentace a vedení dalších hodin, vytvořili jsme diskusi o tom, jak budou prezentace probíhat.**
+      5. **Tipy pro změnu cílů a financí**
+   3. **Diskuze o vytvoření prezentace**
 2. **Při osobní schůzce bez učitele**
-   1. **Projednáno další jednání**
-   2. **Rozdělili jsme úkoly projektu AS-IS**
-   3. **Projednané úkoly do neděle**
+   1. **Diskuse o příštím jednání**
+   2. **Rozdělení úkolů v diagraméch AS-IS**
+   
 
 _Délka schůzky: 1 hodina 20 minut_
 
