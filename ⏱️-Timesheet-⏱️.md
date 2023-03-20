@@ -28,8 +28,9 @@
 | **20.03.2023** | [Vyplnění tabulky hodnocení](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.2 h |
 | **20.03.2023** | [Úprava stranek na Wiki: Timesheet, Schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.4 h |
 | **20.03.2023** | 3. konzultace | 1 h |
+| **20.03.2023** | [Úprava kapitoly BPM v dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 1.2 h |
 
-##### _Celkem odpracováno: 19.5 h_
+##### _Celkem odpracováno: 20.7 h_
 
 
 ## **Dmytryienko Kateryna**
