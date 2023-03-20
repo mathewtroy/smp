@@ -25,7 +25,7 @@
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
 | **18.03.2023** | [Vytvoření BPM v EA, kontola a úprava dalších BPM]() | 2.5 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.3 h |
-| **19.03.2023** | [Vyplnění tabulky hodnocení](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.2 h |
+| **20.03.2023** | [Vyplnění tabulky hodnocení](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.2 h |
 
 ##### _Celkem odpracováno: 18.1 h_
 
