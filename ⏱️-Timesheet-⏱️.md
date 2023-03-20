@@ -27,8 +27,9 @@
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 1.3 h |
 | **20.03.2023** | [Vyplnění tabulky hodnocení](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.2 h |
 | **20.03.2023** | [Úprava stranek na Wiki: Timesheet, Schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.4 h |
+| **20.03.2023** | 3. konzultace | 1 h |
 
-##### _Celkem odpracováno: 18.5 h_
+##### _Celkem odpracováno: 19.5 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -48,8 +49,9 @@
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-5-17032023) | 1.3 h |
 | **18.03.2023** | Vytvoření BRQ | 0.6 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 1.3 h |
+| **20.03.2023** | 3. konzultace | 1 h |
 
-##### _Celkem odpracováno: 10.6 h_
+##### _Celkem odpracováno: 11.6 h_
 
 
 ## **Kononenko Mikhailo**
@@ -88,10 +90,11 @@
 | **19.03.2023** | [Naplnění gitlabu prací odvedenou za týden, přidání „issues“](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 0.3 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 1.0 h |
 | **20.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.2 h |
+| **20.03.2023** | 3. konzultace | 1 h |
 
 
 
-##### _Celkem odpracováno: 20.5 h_
+##### _Celkem odpracováno: 21.5 h_
 
 
 
@@ -113,8 +116,9 @@
 | **17.03.2023** | [5. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-5-17032023) | 1.3 h |
 | **18.03.2023** | [Práce s financemi](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/23) | 1 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 1.3 h |
+| **20.03.2023** | 3. konzultace | 1 h |
 
-##### _Celkem odpracováno: 14.2 h_
+##### _Celkem odpracováno: 15.2 h_
 
 
 
@@ -138,7 +142,8 @@
 | **17.03.2023** | Vypracování nových BPM diagramů Account creation, Account cancellation, Validation a Loan | 2.5 h |
 | **18.03.2023** | Přidání popisů k diagramům | 1 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 0.8 h |
+| **20.03.2023** | 3. konzultace | 1 h |
 
 
-##### _Celkem odpracováno: 18.3 h_
+##### _Celkem odpracováno: 19.3 h_
 
