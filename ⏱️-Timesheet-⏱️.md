@@ -51,8 +51,9 @@
 | **18.03.2023** | Vytvoření BRQ | 0.6 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 1.3 h |
 | **20.03.2023** | 3. konzultace | 1 h |
+| **20.03.2023** | Uprava BRQ, přidání popisu | 0.6 h |
 
-##### _Celkem odpracováno: 11.6 h_
+##### _Celkem odpracováno: 12.2 h_
 
 
 ## **Kononenko Mikhailo**
