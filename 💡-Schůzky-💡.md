@@ -59,24 +59,26 @@ _Délka schůzky: 35 minut_
 
 
 
-
+1. **Rozdělení úkolů mezi účastníky v 1. domácím úkolu projektu**  
+2. **Time tracking**
+   1. Vysvětlení time-trackingu v GitLabu   
 # **Schůze 5 (17.03.2023)**
 
-# **Provedení osobní schůzky s vyučujícím předmětu.**
-1. **Diskutovali jsme o následujících diagramech:**
-- **BDM - kontrola plnění, tipy pro změnu údajů**
-- **AS-IS - tipy pro tvorbu, kontrola vytvořeného**
-- **BRQ a BPMN - kontrola, vše v pořádku**
-2. **Diskutovaný dokument:**
-- **změna struktury projektu**
-- **přidání obsahu**
-- **přidání důvodů pro vývoj projektu**
-- **SMART odstranění**
-- **tipy pro změnu cílů a financí**
-3. **Diskutovali jsme o vytvoření prezentace a vedení dalších hodin, vytvořili jsme diskusi o tom, jak budou prezentace probíhat.**
-# **Při osobní schůzce bez učitele**
-1. **Projednáno další jednání**
-2. **Rozdělili jsme úkoly projektu AS-IS**
-3. **Projednané úkoly do neděle**
+1. **Provedení osobní schůzky s vyučujícím předmětu.**
+   1. **Diskutovali jsme o následujících diagramech:**
+      1. **BDM - kontrola plnění, tipy pro změnu údajů**
+      2. **AS-IS - tipy pro tvorbu, kontrola vytvořeného**
+      3. BRQ a BPMN - kontrola, vše v pořádku**
+   2. **Diskutovaný dokument:**
+      1. **změna struktury projektu**
+      2. **přidání obsahu**
+      3. **přidání důvodů pro vývoj projektu**
+      4. **SMART odstranění**
+      5. **tipy pro změnu cílů a financí**
+   3. **Diskutovali jsme o vytvoření prezentace a vedení dalších hodin, vytvořili jsme diskusi o tom, jak budou prezentace probíhat.**
+2. **Při osobní schůzce bez učitele**
+   1. **Projednáno další jednání**
+   2. **Rozdělili jsme úkoly projektu AS-IS**
+   3. **Projednané úkoly do neděle**
 
 _Délka schůzky: 1 hodina 20 minut_
