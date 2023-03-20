@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://i.ibb.co/LRBmXHP/SMPlogoupdate.png" alt="SMPlogoupdate" border="0" style="display: block; margin: 0 auto"></div>
+<div style="text-align:center"><img src="https://i.ibb.co/LRBmXHP/SMPlogoupdate.png" alt="SMPlogoupdate" border="0" align="center"></div>
 
 ##  [**⏱️ Timesheet ⏱️**](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F)
 
