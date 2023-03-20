@@ -55,20 +55,20 @@
 |-----------|-----------|-----------------|
 | **03.03.2023** | [1. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 1.2 h |
 | **04.03.2023** | [Create table of evaluation](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1.0 h |
-| **04.03.2023** | [Create domain model](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 1.5 h |
+| **04.03.2023** | [Create domain model](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 1.6 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1.0 h |
 | **05.03.2023** | [Vytvoření otázek ke konzultaci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.2 h |
-| **05.03.2023** | [Vytvoření profilu na Wiki](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%A7%A0-N%C3%A1%C5%A1-t%C3%BDm-%F0%9F%A7%A0#kononenko-mikhailo) | 0.2 h |
+| **05.03.2023** | [Vytvoření profilu na Wiki](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%A7%A0-N%C3%A1%C5%A1-t%C3%BDm-%F0%9F%A7%A0#kononenko-mikhailo) | 0.3 h |
 | **06.03.2023** | 1. konzultace | 0.5 h |(https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.3 h |
 | **08.03.2023** | [Změňte písmo a naformátujte dokument](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.0 h |
 | **09.03.2023** | [Přidání domovské stránky](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.3 h |
 | **09.03.2023** | [Přidání SMART](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.0 h |
-| **09.03.2023** | [Změna modelu domény](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.1 h |
+| **09.03.2023** | [Změna modelu domény](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.2 h |
 | **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 0.6 h |
 | **11.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.3 h |
 | **12.03.2023** | [Přidání Uživatel](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.9 h |
 | **12.03.2023** | [Formátování dokumentu](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.1 h |
-| **12.03.2023** | [Napište otázku na schůzku](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.05 h |
+| **12.03.2023** | [Napište otázku na schůzku](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.1 h |
 | **12.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.05 h |
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
 | **13.03.2023** | [Domácí úkol č. 6, přenos dat](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.5 h |
@@ -85,10 +85,11 @@
 | **19.03.2023** | [Přidávání práce do tabulky hodnocení](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.2 h |
 | **19.03.2023** | [Naplnění gitlabu prací odvedenou za týden, přidání „issues“](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1) | 0.3 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 1.0 h |
+| **20.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.2 h |
 
 
 
-##### _Celkem odpracováno: 19.9 h_
+##### _Celkem odpracováno: 20.4 h_
 
 
 
