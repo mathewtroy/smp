@@ -82,12 +82,13 @@ _Délka schůzky: 1 hodina 20 minut_
 
 
 # **Schůze 6 (19.03.2023)**
-1. Kontrola dokumentů
-2. Kontrola správnosti uvedení tabulek, údajů a částí v dokumentu
-3. Odeslání dokumentu našemu učiteli
-4. Přidělování bodů členům skupiny na základě práce vykonané během týdne
-5. Změna některých AS-IS diagramů
-6. Přidání dat grafu do dokumentace
+
+1. **Kontrola dokumentů**
+2. **Kontrola správnosti uvedení tabulek, údajů a částí v dokumentu**
+3. **Odeslání dokumentu na fórum**
+4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
+5. **Úprava AS-IS diagramů**
+6. **Přidání dat grafu do dokumentace**
 
 
 _Délka schůzky: 1 hodina 20 minut_
