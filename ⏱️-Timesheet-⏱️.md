@@ -29,8 +29,9 @@
 | **20.03.2023** | [Úprava stranek na Wiki: Timesheet, Schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.4 h |
 | **20.03.2023** | 3. konzultace | 1 h |
 | **20.03.2023** | [Úprava kapitoly BPM v dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 1.2 h |
+| **21.03.2023** | Kontrola dokumentu vize | 0.4 h |
 
-##### _Celkem odpracováno: 20.7 h_
+##### _Celkem odpracováno: 21.1 h_
 
 
 ## **Dmytryienko Kateryna**
