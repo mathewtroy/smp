@@ -31,8 +31,11 @@
 | **20.03.2023** | [Úprava kapitoly BPM v dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 1.2 h |
 | **21.03.2023** | [Kontrola dokumentu vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit#) | 0.4 h |
 | **22.03.2023** | [Kontrola dokumentu vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit#) | 0.9 h |
+| **23.03.2023** | [Přidání Issues](https://gitlab.fel.cvut.cz/krossale/smp/-/issues) | 0.35 h |
+| **23.03.2023** | [Přidání slajdu k prezentaci](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.25 h |
 
-##### _Celkem odpracováno: 22.0 h_
+
+##### _Celkem odpracováno: 22.6 h_
 
 
 ## **Dmytryienko Kateryna**
