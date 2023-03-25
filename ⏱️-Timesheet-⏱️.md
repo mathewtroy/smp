@@ -61,8 +61,8 @@
 | **20.03.2023** | Uprava BRQ, přidání popisu | 1 h |
 | **22.03.2023** | Přídání zavěru dokumentu Business Analyzy, kontrola dokumentu | 0.8 h |
 | **25.03.2023** | Přídání kapitoly Byznys cíle do dokumentu oponentury | 2 h |
-| **25.03.2023** | Vytvoreni uvodní časti prezentaci, zacatek vytvoreni slajdů | 0.6 h |
-##### _Celkem odpracováno: 16 h_
+| **25.03.2023** | Vytvoreni uvodní časti prezentaci, zacatek vytvoreni slajdů | 0.9 h |
+##### _Celkem odpracováno: 16.3 h_
 
 
 ## **Kononenko Mikhailo**
