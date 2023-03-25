@@ -60,8 +60,9 @@
 | **20.03.2023** | 3. konzultace | 1 h |
 | **20.03.2023** | Uprava BRQ, přidání popisu | 1 h |
 | **22.03.2023** | Přídání zavěru dokumentu Business Analyzy, kontrola dokumentu | 0.8 h |
+| **25.03.2023** | Přídání kapitoly Byznys cíle do dokumentu oponentury | 2 h |
 
-##### _Celkem odpracováno: 13.4 h_
+##### _Celkem odpracováno: 15.4 h_
 
 
 ## **Kononenko Mikhailo**
