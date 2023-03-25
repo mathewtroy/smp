@@ -35,9 +35,9 @@
 | **23.03.2023** | [Přidání slajdu k prezentaci](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.25 h |
 | **24.03.2023** | [Vytvoření dokumentu "Oponentura"](https://docs.google.com/document/d/1ieTlQpTWEHNa2JB3DlHLfS5aKzr3W0lxanO1rN2eEOE/edit#heading=h.d8d0njbbiwkt) | 0.6 h |
 | **24.03.2023** | Rozdělení úkolů mezi účastníky v dokumentu "Oponentura" | 0.2 h |
+| **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 1.2 h |
 
-
-##### _Celkem odpracováno: 23.4 h_
+##### _Celkem odpracováno: 24.6 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -101,10 +101,10 @@
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 1.0 h |
 | **20.03.2023** | [Práce s GitLabem](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis) | 0.2 h |
 | **20.03.2023** | 3. konzultace | 1 h |
+| **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 1.2 h |
 
 
-
-##### _Celkem odpracováno: 21.5 h_
+##### _Celkem odpracováno: 22.7 h_
 
 
 
@@ -127,8 +127,9 @@
 | **18.03.2023** | [Práce s financemi](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/23) | 1 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 1.3 h |
 | **20.03.2023** | 3. konzultace | 1 h |
+| **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 1.2 h |
 
-##### _Celkem odpracováno: 15.2 h_
+##### _Celkem odpracováno: 16.4 h_
 
 
 
@@ -153,7 +154,7 @@
 | **18.03.2023** | Přidání popisů k diagramům | 1 h |
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 0.8 h |
 | **20.03.2023** | 3. konzultace | 1 h |
+| **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 0.2 h |
 
-
-##### _Celkem odpracováno: 19.3 h_
+##### _Celkem odpracováno: 19.5 h_
 
