@@ -139,8 +139,7 @@
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 1.3 h |
 | **20.03.2023** | 3. konzultace | 1 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 1.2 h |
-| **25.03.2023** | Přídání kapitoly Zdůvodnění ekonomické smysluplnosti projektu
- do dokumentu oponentury | 1 h |
+| **25.03.2023** | Přídání kapitoly o financích do dokumentu oponentury | 1 h |
 | **25.03.2023** | [Přidání informací o financích do prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 2 h |
 
 ##### _Celkem odpracováno: 19.4 h_
