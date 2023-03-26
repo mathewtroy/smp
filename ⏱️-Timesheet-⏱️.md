@@ -36,8 +36,9 @@
 | **24.03.2023** | [Vytvoření dokumentu "Oponentura"](https://docs.google.com/document/d/1ieTlQpTWEHNa2JB3DlHLfS5aKzr3W0lxanO1rN2eEOE/edit#heading=h.d8d0njbbiwkt) | 0.6 h |
 | **24.03.2023** | Rozdělení úkolů mezi účastníky v dokumentu "Oponentura" | 0.2 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 1.2 h |
+| **25.03.2023** | [Formatování dokumentu "Oponentura", prezentace](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 1 h |
 
-##### _Celkem odpracováno: 24.6 h_
+##### _Celkem odpracováno: 25.6 h_
 
 
 ## **Dmytryienko Kateryna**
