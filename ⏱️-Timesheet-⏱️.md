@@ -114,7 +114,7 @@
 | **26.03.2023** | [Přidání snímků a textu do prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.5 h |
 | **26.03.2023** | [Vyplnění informací o schůzce, přidání problému, vyplnění tabulky podle času.](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.3 h |
 
-##### _Celkem odpracováno: 22.7 h_
+##### _Celkem odpracováno: 27.3 h_
 
 
 
