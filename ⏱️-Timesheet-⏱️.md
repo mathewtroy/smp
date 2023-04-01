@@ -37,8 +37,11 @@
 | **24.03.2023** | Rozdělení úkolů mezi účastníky v dokumentu "Oponentura" | 0.2 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 1.2 h |
 | **25.03.2023** | [Formatování dokumentu "Oponentura", prezentace](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 1 h |
+| **01.04.2023** | [Práce na kapitole "Prvotní softwarová analýza"](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 1.6 h |
+| **01.04.2023** | Rozdělení úkolů mezi účastníky v kapitole "Prvotní softwarová analýza"  | 0.2 h |
 
-##### _Celkem odpracováno: 25.6 h_
+
+##### _Celkem odpracováno: 27.4 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -169,6 +172,7 @@
 | **19.03.2023** | [6. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-6-19032023) | 0.8 h |
 | **20.03.2023** | 3. konzultace | 1 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 0.2 h |
+
 
 ##### _Celkem odpracováno: 19.5 h_
 
