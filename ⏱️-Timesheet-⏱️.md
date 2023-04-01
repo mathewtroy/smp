@@ -141,8 +141,9 @@
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 1.2 h |
 | **25.03.2023** | Přídání kapitoly o financích do dokumentu oponentury | 1 h |
 | **25.03.2023** | [Přidání informací o financích do prezentace](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/30) | 2 h |
+| **01.04.2023** | [Vytvoření šablony pro BPMN diagramy]| 0.2 h |
 
-##### _Celkem odpracováno: 19.4 h_
+##### _Celkem odpracováno: 19.6 h_
 
 
 
