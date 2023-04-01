@@ -173,7 +173,7 @@
 | **20.03.2023** | 3. konzultace | 1 h |
 |**21.03.2023** | Přidání úvodu do dokumentu Byznys Analýza | 0.5 h |
 |**24.03.2023** | Vypracování kapitoly o BRQ v dokumentu oponentury | 1 h |
-|**24.03.2023** | Úprava prezentace | 0.2 h |
+|**24.03.2023** | [Úprava prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.2 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 0.2 h |
 
 
