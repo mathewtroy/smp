@@ -39,9 +39,9 @@
 | **25.03.2023** | [Formatování dokumentu "Oponentura", prezentace](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 1 h |
 | **01.04.2023** | [Práce na kapitole "Prvotní softwarová analýza"](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 1.6 h |
 | **01.04.2023** | Rozdělení úkolů mezi účastníky v kapitole "Prvotní softwarová analýza"  | 0.2 h |
+| **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 
-
-##### _Celkem odpracováno: 27.4 h_
+##### _Celkem odpracováno: 27.9 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -68,7 +68,8 @@
 | **25.03.2023** | Vytvoreni uvodní časti prezentaci, zacatek vytvoreni slajdů | 0.9 h |
 | **01.04.2023** | Promyšlení diagramu systemových požadavků | 0.6 h |
 | **02.04.2023** | Vytvoření diagramu systemových požadavků | 1.2 h |
-##### _Celkem odpracováno: 18.1 h_
+| **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
+##### _Celkem odpracováno: 18.6 h_
 
 
 ## **Kononenko Mikhailo**
@@ -119,8 +120,9 @@
 | **26.03.2023** | [Úprava kapitoly BDM v dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 0.2 h |
 | **26.03.2023** | [Přidání snímků a textu do prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.5 h |
 | **26.03.2023** | [Vyplnění informací o schůzce, přidání problému, vyplnění tabulky podle času.](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.3 h |
+| **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.2 h |
 
-##### _Celkem odpracováno: 27.3 h_
+##### _Celkem odpracováno: 27.5 h_
 
 
 
@@ -147,8 +149,9 @@
 | **25.03.2023** | Přídání kapitoly o financích do dokumentu oponentury | 1 h |
 | **25.03.2023** | [Přidání informací o financích do prezentace](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/30) | 2 h |
 | **01.04.2023** | Vytvoření šablony pro BPMN diagramy| 0.2 h |
+| **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 
-##### _Celkem odpracováno: 19.6 h_
+##### _Celkem odpracováno: 20.1 h_
 
 
 
@@ -177,7 +180,8 @@
 |**24.03.2023** | [Vypracování kapitoly o BRQ v dokumentu oponentury](https://docs.google.com/document/d/1ieTlQpTWEHNa2JB3DlHLfS5aKzr3W0lxanO1rN2eEOE/edit#heading=h.d8d0njbbiwkt) | 1 h |
 |**24.03.2023** | [Úprava prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.2 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 0.2 h |
+| **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 
 
-##### _Celkem odpracováno: 21.2 h_
+##### _Celkem odpracováno: 21.7 h_
 
