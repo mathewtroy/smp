@@ -112,7 +112,8 @@ _Délka schůzky: 1 hodina 10 minut_
 2. **Kontrola správnosti dokumentu Byznys cíle**
 3. **Dokončení a kontrola prezentaci, rozdělení témat prezentování mezi členy týmu**
 4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
-
+5. projednání dalších úkolů
+6. diskuse o další týmové práci a rozdělení úkolů
  _Délka schůzky: 1 hodina 30 minut_
 
 
