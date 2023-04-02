@@ -106,6 +106,16 @@ Setkání s učitelem:
 _Délka schůzky: 1 hodina 10 minut_
 
 
+# **Schůze 8 (26.03.2023)**
+
+1. **Kontrola dokumentu oponentury**
+2. **Kontrola správnosti dokumentu Byznys cíle**
+3. **Dokončení a kontrola prezentaci, rozdělení témat prezentování mezi členy týmu**
+4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
+
+ _Délka schůzky: 1 hodina 30 minut_
+
+
 # **Schůze 9 (02.04.2023)**
 
 1. **Promyšlení systémových požadavků**
