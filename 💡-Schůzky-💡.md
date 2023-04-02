@@ -104,3 +104,12 @@ Setkání s učitelem:
 5. Projednali popis soupeře, dosáhli dohody o jeho formátu
 
 _Délka schůzky: 1 hodina 10 minut_
+
+
+# **Schůze 9 (02.04.2023)**
+
+1. **Promyšlení systémových požadavků**
+2. **Kontrola správnosti diagramů případů užití**
+3. **Upravení drobných chyb v byznys analyze**
+4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
+5. **Přidání diagramů do dokumentace**
