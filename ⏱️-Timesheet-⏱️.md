@@ -128,8 +128,8 @@
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.2 h |
 | **02.04.2023** | [Change Analytický doménový model třídy](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 0.3 h |
 | **02.04.2023** | [Přidávání textu do Analytický doménový model tříd](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 2.1 h |
-
-##### _Celkem odpracováno: 28.7 h_
+| **03.04.2023** | Přídání informace na gitlab| 0.2 h |
+##### _Celkem odpracováno: 32.8 h_
 
 
 
