@@ -113,4 +113,4 @@ _Délka schůzky: 1 hodina 10 minut_
 3. **Upravení drobných chyb v byznys analyze**
 4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
 
- _Délka schůzky: 30 minut
+ _Délka schůzky: 30 minut_
