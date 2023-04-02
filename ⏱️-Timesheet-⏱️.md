@@ -67,7 +67,8 @@
 | **25.03.2023** | Přídání kapitoly Byznys cíle do dokumentu oponentury | 2 h |
 | **25.03.2023** | Vytvoreni uvodní časti prezentaci, zacatek vytvoreni slajdů | 0.9 h |
 | **01.04.2023** | Promyšlení diagramu systemových požadavků | 0.6 h |
-##### _Celkem odpracováno: 16.9 h_
+| **02.04.2023** | Vytvoření diagramu systemových požadavků | 1.2 h |
+##### _Celkem odpracováno: 18.1 h_
 
 
 ## **Kononenko Mikhailo**
