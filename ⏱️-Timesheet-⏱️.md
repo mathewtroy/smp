@@ -123,8 +123,11 @@
 | **26.03.2023** | [Úprava kapitoly BDM v dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 0.2 h |
 | **26.03.2023** | [Přidání snímků a textu do prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) |0.5h|
 | **26.03.2023** | [Vyplnění informací o schůzce, přidání problému, vyplnění tabulky podle času](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) |0.3h|
-| **26.03.2023** | [8. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-8-26032023) | 1.2 h |
+| **26.03.2023** | [8. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-8-26032023) | 1.5 h |
+| **26.03.2023** | [Práce na prezentaci, změna textu, zapamatování textu](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) |1.1h|
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.2 h |
+| **02.04.2023** | [Change Analytický doménový model třídy](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 0.3 h |
+| **02.04.2023** | [Přidávání textu do Analytický doménový model tříd](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 2.1 h |
 
 ##### _Celkem odpracováno: 28.7 h_
 
