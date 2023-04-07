@@ -72,7 +72,8 @@
 | **02.04.2023** | Vytvoření diagramu systemových požadavků | 2 h |
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 | **02.04.2023** | Přídaní schůzek a času do tabulek členů týmu| 0.5 h |
-##### _Celkem odpracováno: 21.4 h_
+| **07.04.2023** | Promyslení kvalitativních požadavků| 1 h |
+##### _Celkem odpracováno: 22.4 h_
 
 
 ## **Kononenko Mikhailo**
