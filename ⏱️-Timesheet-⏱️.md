@@ -41,8 +41,9 @@
 | **01.04.2023** | [Práce na kapitole "Prvotní softwarová analýza"](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit) | 1.6 h |
 | **01.04.2023** | Rozdělení úkolů mezi účastníky v kapitole "Prvotní softwarová analýza"  | 0.2 h |
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
+| **03.04.2023** | 4. konzultace | 1 h |
 
-##### _Celkem odpracováno: 29.4 h_
+##### _Celkem odpracováno: 30.4 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -72,9 +73,10 @@
 | **02.04.2023** | Vytvoření diagramu systemových požadavků | 2 h |
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 | **02.04.2023** | Přídaní schůzek a času do tabulek členů týmu| 0.5 h |
+| **03.04.2023** | 4. konzultace | 1 h |
 | **07.04.2023** | Promyslení kvalitativních požadavků| 1 h |
 | **08.04.2023** | Vytvoření diagramu kvalitativních požadavků a drobná úprava funkčních požadavků | 0.5 h |
-##### _Celkem odpracováno: 22.9 h_
+##### _Celkem odpracováno: 23.9 h_
 
 
 ## **Kononenko Mikhailo**
@@ -131,7 +133,10 @@
 | **02.04.2023** | [Change Analytický doménový model třídy](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 0.3 h |
 | **02.04.2023** | [Přidávání textu do Analytický doménový model tříd](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit)| 2.1 h |
 | **03.04.2023** | Přídání informace na gitlab| 0.2 h |
-##### _Celkem odpracováno: 32.8 h_
+| **03.04.2023** | 4. konzultace | 1 h |
+
+
+##### _Celkem odpracováno: 33.8 h_
 
 
 
@@ -162,8 +167,10 @@
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 | **02.04.2023** | Přídání Issues| 0.2 h |
 | **02.04.2023** | [Vytvoření analytického doménového modelu tříd](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/37) | 2 h |
+| **03.04.2023** | 4. konzultace | 1 h |
 
-##### _Celkem odpracováno: 23.8 h_
+
+##### _Celkem odpracováno: 24.8 h_
 
 
 
@@ -193,7 +200,8 @@
 |**24.03.2023** | [Úprava prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.2 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 0.2 h |
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
+| **03.04.2023** | 4. konzultace | 1 h |
 
 
-##### _Celkem odpracováno: 21.7 h_
+##### _Celkem odpracováno: 22.7 h_
 
