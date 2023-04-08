@@ -76,7 +76,8 @@
 | **03.04.2023** | 4. konzultace | 1 h |
 | **07.04.2023** | Promyslení kvalitativních požadavků| 1 h |
 | **08.04.2023** | Vytvoření diagramu kvalitativních požadavků a drobná úprava funkčních požadavků | 0.5 h |
-##### _Celkem odpracováno: 23.9 h_
+| **09.04.2023** | Přidání diagramů a popisu do dokumentu, úprava formatu | 1.5 h |
+##### _Celkem odpracováno: 25.4 h_
 
 
 ## **Kononenko Mikhailo**
