@@ -126,3 +126,13 @@ _Délka schůzky: 1 hodina 10 minut_
 4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
 
  _Délka schůzky: 30 minut_
+
+
+# **Schůze 10 (09.04.2023)**
+
+1. **Bodování pro celý tým**
+2. **Ovládání ADM**
+3. **Změna modelu případu použití a diskuse**
+4. **Přidávání nových akcí případu použití**
+
+ _Délka schůzky: 30 minut_
