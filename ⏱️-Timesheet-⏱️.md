@@ -169,13 +169,14 @@
 | **26.03.2023** | [8. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-8-26032023) | 1.5 h |
 | **01.04.2023** | Vytvoření šablony pro BPMN diagramy| 0.2 h |
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
-| **02.04.2023** | Přídání Issues| 0.2 h |
+| **02.04.2023** | Přídání Issues | 0.2 h |
 | **02.04.2023** | [Vytvoření analytického doménového modelu tříd](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/37) | 2 h |
 | **03.04.2023** | 4. konzultace | 1 h |
 | **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.3 h |
+| **09.04.2023** | Přidání Use Case modelů | 1 h |
 
 
-##### _Celkem odpracováno: 25.1 h_
+##### _Celkem odpracováno: 26.1 h_
 
 
 
