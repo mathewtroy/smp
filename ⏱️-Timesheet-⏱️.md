@@ -139,8 +139,9 @@
 | **03.04.2023** | Přídání informace na gitlab| 0.2 h |
 | **03.04.2023** | 4. konzultace | 1 h |
 | **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
+| **09.04.2023** | Přidání diagramů a popisu do dokumentu, úprava formatu| 1.7 h |
 
-##### _Celkem odpracováno: 34.3 h_
+##### _Celkem odpracováno: 36.0 h_
 
 
 
