@@ -211,6 +211,8 @@
 |**24.03.2023** | [Vypracování kapitoly o BRQ v dokumentu oponentury](https://docs.google.com/document/d/1ieTlQpTWEHNa2JB3DlHLfS5aKzr3W0lxanO1rN2eEOE/edit#heading=h.d8d0njbbiwkt) | 1 h |
 |**24.03.2023** | [Úprava prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.2 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 0.2 h |
+| **02.04.2023** | Vypracování modelu případů užití | 2 h |
+| **02.04.2023** | Vypracování popisů a basic path pro Use Case model | 1.3 h |
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 | **03.04.2023** | 4. konzultace | 1 h |
 | **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
