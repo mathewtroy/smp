@@ -136,3 +136,12 @@ _Délka schůzky: 1 hodina 10 minut_
 4. **Přidávání nových akcí případu použití**
 
  _Délka schůzky: 30 minut_
+
+# **Schůze 11 (16.04.2023)**
+
+1. **Kontrola předchozího domácího úkolu**
+2. **Rozdělení rolí pro další domácí úkol**
+3. **Probírání přesných úkolů pro každého účastníka**
+4. **Přičítání bodů všem za daný týden**
+
+ _Délka schůzky: 25 minut_
