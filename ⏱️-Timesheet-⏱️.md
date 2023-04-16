@@ -46,8 +46,9 @@
 | **08.04.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.1 h |
 | **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 | **16.04.2023** | [Úprava dokumentu Vize, vytvoření kapitoly "Návrh aplikace" ](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.7 h |
+| **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
 
-##### _Celkem odpracováno: 31.8 h_
+##### _Celkem odpracováno: 32.2 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -81,8 +82,9 @@
 | **07.04.2023** | Promyslení kvalitativních požadavků| 1 h |
 | **08.04.2023** | Vytvoření diagramu kvalitativních požadavků a drobná úprava funkčních požadavků | 0.5 h |
 | **09.04.2023** | Přidání diagramů a popisu do dokumentu, úprava formatu | 1.5 h |
-| **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
-##### _Celkem odpracováno: 25.9 h_
+| **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-10-02042023) | 0.5 h |
+| **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
+##### _Celkem odpracováno: 26.3 h_
 
 
 ## **Kononenko Mikhailo**
@@ -142,8 +144,9 @@
 | **03.04.2023** | 4. konzultace | 1 h |
 | **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 | **09.04.2023** | Přidání diagramů a popisu do dokumentu, úprava formatu| 1.7 h |
+| **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
 
-##### _Celkem odpracováno: 36.0 h_
+##### _Celkem odpracováno: 36.4 h_
 
 
 
@@ -177,9 +180,9 @@
 | **03.04.2023** | 4. konzultace | 1 h |
 | **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.3 h |
 | **09.04.2023** | Přidání Use Case modelů | 1 h |
+| **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
 
-
-##### _Celkem odpracováno: 26.1 h_
+##### _Celkem odpracováno: 26.5 h_
 
 
 
@@ -208,10 +211,8 @@
 |**24.03.2023** | [Vypracování kapitoly o BRQ v dokumentu oponentury](https://docs.google.com/document/d/1ieTlQpTWEHNa2JB3DlHLfS5aKzr3W0lxanO1rN2eEOE/edit#heading=h.d8d0njbbiwkt) | 1 h |
 |**24.03.2023** | [Úprava prezentace](https://docs.google.com/presentation/d/1D6oZEG_GAf0sXePDDJUTRjjbQCMw9zdR8F4o-SN8rWI/edit?usp=sharing) | 0.2 h |
 | **24.03.2023** | [7. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-7-24032023) | 0.2 h |
-| **02.04.2023** | Vypracování diagramů případů užití | 2 h |
-| **02.04.2023** | Vypracování popisů a basic path pro Use Case model | 1.3 h |
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 | **03.04.2023** | 4. konzultace | 1 h |
-
-##### _Celkem odpracováno: 26 h_
+| **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
+##### _Celkem odpracováno: 23.1 h_
 
