@@ -45,7 +45,9 @@
 | **08.04.2023** | [Úprava stranky Timesheet](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F) | 0.1 h |
 | **08.04.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.1 h |
 | **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
-##### _Celkem odpracováno: 31.1 h_
+| **16.04.2023** | [Úprava dokumentu Vize, vytvoření kapitoly "Návrh aplikace" ](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.7 h |
+
+##### _Celkem odpracováno: 31.8 h_
 
 
 ## **Dmytryienko Kateryna**
