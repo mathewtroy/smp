@@ -145,3 +145,13 @@ _Délka schůzky: 1 hodina 10 minut_
 4. **Přičítání bodů všem za daný týden**
 
  _Délka schůzky: 25 minut_
+
+# **Schůze 12 (23.04.2023)**
+
+1. **Vytvoření diagram komponent**
+2. **Vytvoření diagram nasazení**
+3. **Vytvoření sekvenčních diagramů**
+4. **Přičítání bodů všem za daný týden**
+5. **Dělba práce Wireframes**
+
+ _Délka schůzky: 30 minut_
