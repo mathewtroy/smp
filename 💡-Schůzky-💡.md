@@ -97,11 +97,11 @@ _Délka schůzky: 1 hodina 20 minut_
 # **Schůze 7 (24.03.2023)**
 
 Setkání s učitelem:
-1. Diskutováno o nových problémech v dokumentaci.
-2. Chyby jsou indikovány v BDM
-3. Diskutován nesprávný popis AS-IS diagramů
-4. Diskutovalo se o struktuře prezentace
-5. Projednali popis soupeře, dosáhli dohody o jeho formátu
+1. **Diskutováno o nových problémech v dokumentaci.**
+2. **Chyby jsou indikovány v BDM**
+3. **Diskutován nesprávný popis AS-IS diagramů**
+4. **Diskutovalo se o struktuře prezentace**
+5. **Projednali popis soupeře, dosáhli dohody o jeho formátu**
 
 _Délka schůzky: 1 hodina 10 minut_
 
