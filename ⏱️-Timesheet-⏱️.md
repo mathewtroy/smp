@@ -187,8 +187,9 @@
 | **09.04.2023** | Přidání Use Case modelů | 1 h |
 | **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
 | **23.04.2023** | [12. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.5 h |
+| **23.04.2023** | Vytvoření sekvenčního diagramu | 3 h |
 
-##### _Celkem odpracováno: 27 h_
+##### _Celkem odpracováno: 30 h_
 
 
 
