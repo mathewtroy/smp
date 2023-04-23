@@ -84,7 +84,10 @@
 | **09.04.2023** | Přidání diagramů a popisu do dokumentu, úprava formatu | 1.5 h |
 | **09.04.2023** | [10. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-10-02042023) | 0.5 h |
 | **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
-##### _Celkem odpracováno: 26.3 h_
+| **22.04.2023** | Promyslení sekvenčního diagramu, rešerše na dané téma| 1.5 h |
+| **23.04.2023** | Vytvoření sekvenčního diagramu, popis| 2.5 h |
+| **23.04.2023** | 12. schůze| 0.5 h |
+##### _Celkem odpracováno: 30.8 h_
 
 
 ## **Kononenko Mikhailo**
