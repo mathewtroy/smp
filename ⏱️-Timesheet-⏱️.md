@@ -156,7 +156,7 @@
 | **17.04.2023** | 5. konzultace | 1.3 h |
 | **23.04.2023** | [12. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.6 h |
 
-##### _Celkem odpracováno: 37 h_
+##### _Celkem odpracováno: 40.0 h_
 
 
 
