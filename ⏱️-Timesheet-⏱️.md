@@ -98,7 +98,8 @@
 | **22.04.2023** | Promyslení sekvenčního diagramu, rešerše na dané téma| 1.5 h |
 | **23.04.2023** | Vytvoření sekvenčního diagramu, popis| 2.5 h |
 | **23.04.2023** | [12. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.6 h |
-##### _Celkem odpracováno: 34.6 h_
+| **30.04.2023** | Vytvoření wireframes, uprava dokumentu| 2.5 h |
+##### _Celkem odpracováno: 37.1 h_
 
 
 ## **Kononenko Mikhailo**
