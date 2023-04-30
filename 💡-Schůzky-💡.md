@@ -155,3 +155,13 @@ _Délka schůzky: 1 hodina 10 minut_
 5. **Dělba práce Wireframes**
 
  _Délka schůzky: 30 minut_
+
+# **Schůze 13 (30.04.2023)**
+1. **Vývoj a úprava diagramu součástek**
+2. **Vývoj a úprava diagramu nasazení**
+3. **Vývoj a úprava sekvenčního diagramu**
+4. **Navrhování a úprava drátěných modelů, diskuse o cílech a možných nápadech oken, tvorba těchto oken pro web a telefon.**
+5. **Hodnoceni**
+6. **Úprava dokumentu, změna výstupu a obrázků**
+
+ _Délka schůzky: 55 minut_
