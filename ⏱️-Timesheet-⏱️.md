@@ -52,8 +52,8 @@
 | **23.04.2023** | [12. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.6 h |
 | **23.04.2023** | [Vytvoření sekvenčního diagramu, úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.6 h |
 | **23.04.2023** | [Úprava stranky Timesheet](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F) | 0.2 h |
-
-##### _Celkem odpracováno: 38.6 h_
+| **30.04.2023** | [13. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-13-23042023)| 1.0 h |
+##### _Celkem odpracováno: 39.6 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -159,9 +159,9 @@
 | **23.04.2023** | [Wireframes](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 1.3 h |
 | **23.04.2023** | [Uprava stranky gitlab](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.2 h |
 | **29.04.2023** | [Uprava stranek gitlab](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.3 h |
+| **30.04.2023** | [13. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-13-23042023)| 1.0 h |
 
-
-##### _Celkem odpracováno: 42.8 h_
+##### _Celkem odpracováno: 43.8 h_
 
 
 
@@ -199,8 +199,8 @@
 | **17.04.2023** | 5. konzultace | 1.3 h |
 | **23.04.2023** | [12. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.5 h |
 | **23.04.2023** | Vytvoření sekvenčního diagramu | 3 h |
-
-##### _Celkem odpracováno: 33.8 h_
+| **30.04.2023** | [13. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-13-23042023)| 1.0 h |
+##### _Celkem odpracováno: 34.8 h_
 
 
 
