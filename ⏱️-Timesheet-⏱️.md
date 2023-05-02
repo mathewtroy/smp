@@ -172,8 +172,9 @@
 | **30.04.2023** | [Změna sekvenčního diagramu](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/edit?usp=sharing)| 0.3 h |
 | **30.04.2023** | [Uprava stranek gitlab](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-13-23042023)| 0.3 h |
 | **30.04.2023** | Create wireframes, uprava dokumentu| 3.2 h |
+| **01.05.2023** | [Uprava stranek gitlab](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-13-23042023)| 0.2 h |
 
-##### _Celkem odpracováno: 49.4 h_
+##### _Celkem odpracováno: 49.6 h_
 
 
 
