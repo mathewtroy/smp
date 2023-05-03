@@ -56,10 +56,10 @@
 | **30.04.2023** | [Práce nad diagramem nasazení](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 1.5 h |
 | **30.04.2023** | [Práce nad sekvenčním diagramem](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.35 h |
 | **30.04.2023** | [Úprava a kontrola dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.45 h |
+| **03.05.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.1 h |
 
 
-
-##### _Celkem odpracováno: 41.9 h_
+##### _Celkem odpracováno: 42.0 h_
 
 
 ## **Dmytryienko Kateryna**
