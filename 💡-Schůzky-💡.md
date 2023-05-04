@@ -13,7 +13,7 @@ Tato stránka obsahuje základní osnovu každé z našich schůzek.
    2. Finance  
 5. **Naplánování dalšího meetingu**
 
-_Délka schůzky: 1 hodina 10 minut_ 
+_Délka schůzky: 1 hodina 35 minut_ 
 
 # **Schůze 2 (05.03.2023)**
 
