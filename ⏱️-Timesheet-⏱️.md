@@ -217,7 +217,9 @@
 | **30.04.2023** | [13. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-13-23042023)| 1.0 h |
 | **30.04.2023** | Vytvoření stavového diagramu | 2 h |
 | **04.05.2023** | 6. konzultace | 1.6 h |
-##### _Celkem odpracováno: 39.0 h_
+| **05.05.2023** | Oprava stavového diagramu | 0.5 h |
+| **05.05.2023** | Oprava sekvenčního diagramu | 2 h |
+##### _Celkem odpracováno: 41.5 h_
 
 
 
