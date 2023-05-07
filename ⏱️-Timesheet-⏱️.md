@@ -189,14 +189,15 @@
 | **01.05.2023** | [Uprava stranek gitlab](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-13-23042023)| 0.2 h |
 | **01.05.2023** | [Fill table of evaluation](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1.5 h |
 | **04.05.2023** | 6. konzultace | 1.6 h |
-| **07.05.2023** | [Zmena wireframes](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.6 h |
-| **07.05.2023** | [Stvoření 2 use-case Context Diagram](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1.8 h |
+| **07.05.2023** | [Zmena wireframes](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.7 h |
+| **07.05.2023** | [Stvoření 2 use-case Context Diagram](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 4.8 h |
 | **07.05.2023** | [Práce nad sekvenčním diagramem](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.4 h |
 | **07.05.2023** | [Uprava documentu vize](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.4 h |
 | **07.05.2023** | [Úprava Timesheet](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.3 h |
 | **07.05.2023** | [Doplnění poznatků k průběhu projektu.](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1.1 h |
+| **07.05.2023** | [Uprava VIZE a moodle.](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.4 h |
 
-##### _Celkem odpracováno: 60.5 h_
+##### _Celkem odpracováno: 64.0 h_
 
 
 
