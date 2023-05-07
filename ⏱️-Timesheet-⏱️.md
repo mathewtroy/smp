@@ -58,8 +58,10 @@
 | **30.04.2023** | [Úprava a kontrola dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.45 h |
 | **03.05.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.1 h |
 | **04.05.2023** | 6. konzultace | 1.6 h |
+| **07.05.2023** | [Práce nad sekvenčním diagramem](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.6 h |
 
-##### _Celkem odpracováno: 44.2 h_
+
+##### _Celkem odpracováno: 44.8 h_
 
 
 ## **Dmytryienko Kateryna**
