@@ -60,8 +60,9 @@
 | **04.05.2023** | 6. konzultace | 1.6 h |
 | **07.05.2023** | [Práce nad sekvenčním diagramem](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 1 h |
 | **07.05.2023** | [Úprava stranek na Wiki: Timesheet, Schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.7 h |
+| **07.05.2023** | [14. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.8 h |
 
-##### _Celkem odpracováno: 45.9 h_
+##### _Celkem odpracováno: 46.7 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -102,7 +103,9 @@
 | **23.04.2023** | [12. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.6 h |
 | **30.04.2023** | Vytvoření wireframes, uprava dokumentu| 2.5 h |
 | **04.05.2023** | 6. konzultace | 1.6 h |
-##### _Celkem odpracováno: 39.3 h_
+| **07.05.2023** | [14. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.8 h |
+
+##### _Celkem odpracováno: 40.1 h_
 
 
 ## **Kononenko Mikhailo**
@@ -221,7 +224,9 @@
 | **04.05.2023** | 6. konzultace | 1.6 h |
 | **05.05.2023** | Oprava stavového diagramu | 0.5 h |
 | **05.05.2023** | Oprava sekvenčního diagramu | 2 h |
-##### _Celkem odpracováno: 41.5 h_
+| **07.05.2023** | [14. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.8 h |
+
+##### _Celkem odpracováno: 42.3 h_
 
 
 
@@ -258,5 +263,6 @@
 | **17.04.2023** | 5. konzultace | 1.3 h |
 | **23.04.2023** | [12. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.5 h |
 | **04.05.2023** | 6. konzultace | 1.6 h |
+
 ##### _Celkem odpracováno: 32.8 h_
 
