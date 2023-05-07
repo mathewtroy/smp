@@ -54,7 +54,7 @@ _Délka schůzky: 35 minut_
  
 # **Schůze 5 (17.03.2023)**
 
-## **Provedení osobní schůzky s vyučujícím předmětu.**
+### **Provedení osobní schůzky s vyučujícím předmětu.**
    1. **Analýza diagramů:**
       1. **BDM - kontrola plnění, tipy pro změnu údajů**
       2. **AS-IS - tipy pro tvorbu, kontrola vytvořeného**
