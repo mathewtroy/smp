@@ -161,3 +161,13 @@ _Délka schůzky: 1 hodina 10 minut_
 6. **Úprava dokumentu, změna výstupu a obrázků**
 
  _Délka schůzky: 55 minut_
+
+
+# **Schůze 14 (07.05.2023)**
+1. **Práce se sekvenčními diagramy**
+2. **Práce s Wireframes**
+3. **Rozdělení práce - Use Case Context diagramy**
+4. **Rozdělení práce - Feedback**
+5. **Hodnocení týmu**
+
+ _Délka schůzky: 50 minut_
