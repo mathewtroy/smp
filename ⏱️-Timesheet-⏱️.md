@@ -59,9 +59,9 @@
 | **03.05.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 0.1 h |
 | **04.05.2023** | 6. konzultace | 1.6 h |
 | **07.05.2023** | [Práce nad sekvenčním diagramem](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 1 h |
+| **07.05.2023** | [Úprava stranek na Wiki: Timesheet, Schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.7 h |
 
-
-##### _Celkem odpracováno: 45.2 h_
+##### _Celkem odpracováno: 45.9 h_
 
 
 ## **Dmytryienko Kateryna**
