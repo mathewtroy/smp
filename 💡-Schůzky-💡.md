@@ -54,7 +54,7 @@ _Délka schůzky: 35 minut_
  
 # **Schůze 5 (17.03.2023)**
 
-1. **Provedení osobní schůzky s vyučujícím předmětu.**
+**Provedení osobní schůzky s vyučujícím předmětu.**
    1. **Analýza diagramů:**
       1. **BDM - kontrola plnění, tipy pro změnu údajů**
       2. **AS-IS - tipy pro tvorbu, kontrola vytvořeného**
@@ -65,14 +65,13 @@ _Délka schůzky: 35 minut_
       3. **Přidání důvodů pro vývoj projektu**
       4. **SMART odstranění**
       5. **Tipy pro změnu cílů a financí**
-   3. **Diskuze o vytvoření prezentace**
-2. **Při osobní schůzce bez učitele**
-   1. **Diskuse o příštím jednání**
+   3. **Diskuze o vytvoření prezentace** <br>
+   4. 
+**Při osobní schůzce bez učitele**
+   1. **Diskuze o příštím jednání**
    2. **Rozdělení úkolů v diagraméch AS-IS**
    
-
 _Délka schůzky: 1 hodina 20 minut_
-
 
 
 # **Schůze 6 (19.03.2023)**
@@ -95,7 +94,7 @@ _Délka schůzky: 1 hodina 20 minut_
 2. **Úprava chyb v BDM**
 3. **Úprava popisu AS-IS diagramů**
 4. **Diskuze o struktuře prezentace**
-5. **Diskuse oponentů**
+5. **Diskuze oponentů**
 
 _Délka schůzky: 1 hodina 10 minut_
 
@@ -107,7 +106,7 @@ _Délka schůzky: 1 hodina 10 minut_
 3. **Dokončení a kontrola prezentaci, rozdělení témat prezentování mezi členy týmu**
 4. **Hodnocení týmu**
 5. **Projednání dalších úkolů**
-6. **Diskuse o další týmové práci a rozdělení úkolů**
+6. **Diskuze o další týmové práci a rozdělení úkolů**
 
  _Délka schůzky: 1 hodina 30 minut_
 
@@ -141,15 +140,17 @@ _Délka schůzky: 1 hodina 10 minut_
 
  _Délka schůzky: 25 minut_
 
+
 # **Schůze 12 (23.04.2023)**
 
 1. **Vytvoření diagram komponent**
 2. **Vytvoření diagram nasazení**
 3. **Vytvoření sekvenčních diagramů**
-4. **Přičítání bodů všem za daný týden**
+4. **Hodnocení týmu**
 5. **Rozdělení práce - Wireframes**
 
  _Délka schůzky: 30 minut_
+
 
 # **Schůze 13 (30.04.2023)**
 1. **Vývoj a úprava diagramu součástek**
