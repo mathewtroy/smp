@@ -42,8 +42,6 @@ _Délka schůzky: 1 hodina_
 _Délka schůzky: 1 hodina 30 minut_ 
 
 
-
-
 # **Schůze 4 (12.03.2023)**
 
 1. **Kontrola dokumentu víze** 
@@ -52,10 +50,6 @@ _Délka schůzky: 1 hodina 30 minut_
 4. **Kontrola doplnění všech údajů o práci každého účastníka**
 
 _Délka schůzky: 35 minut_ 
-
-
-
-
 
  
 # **Schůze 5 (17.03.2023)**
@@ -86,7 +80,7 @@ _Délka schůzky: 1 hodina 20 minut_
 1. **Kontrola dokumentů**
 2. **Kontrola správnosti uvedení tabulek, údajů a částí v dokumentu**
 3. **Odeslání dokumentu na fórum**
-4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
+4. **Hodnocení týmu**
 5. **Úprava AS-IS diagramů**
 6. **Přidání dat grafu do dokumentace**
 
@@ -97,11 +91,11 @@ _Délka schůzky: 1 hodina 20 minut_
 # **Schůze 7 (24.03.2023)**
 
 **Setkání s učitelem:**
-1. **Diskutováno o nových problémech v dokumentaci.**
-2. **Chyby jsou indikovány v BDM**
-3. **Diskutován nesprávný popis AS-IS diagramů**
-4. **Diskutovalo se o struktuře prezentace**
-5. **Projednali popis soupeře, dosáhli dohody o jeho formátu**
+1. **Diskuze o nových problémech v dokumentaci.**
+2. **Úprava chyb v BDM**
+3. **Úprava popisu AS-IS diagramů**
+4. **Diskuze o struktuře prezentace**
+5. **Diskuse oponentů**
 
 _Délka schůzky: 1 hodina 10 minut_
 
@@ -111,9 +105,9 @@ _Délka schůzky: 1 hodina 10 minut_
 1. **Kontrola dokumentu oponentury**
 2. **Kontrola správnosti dokumentu Byznys cíle**
 3. **Dokončení a kontrola prezentaci, rozdělení témat prezentování mezi členy týmu**
-4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
-5. **projednání dalších úkolů**
-6. **diskuse o další týmové práci a rozdělení úkolů**
+4. **Hodnocení týmu**
+5. **Projednání dalších úkolů**
+6. **Diskuse o další týmové práci a rozdělení úkolů**
 
  _Délka schůzky: 1 hodina 30 minut_
 
@@ -122,27 +116,28 @@ _Délka schůzky: 1 hodina 10 minut_
 
 1. **Promyšlení systémových požadavků**
 2. **Kontrola správnosti diagramů případů užití**
-3. **Upravení drobných chyb v byznys analyze**
-4. **Přidělování bodů členům skupiny na základě práce vykonané během týdne**
+3. **Úprava chyb v byznys analyze**
+4. **Hodnocení týmu**
 
  _Délka schůzky: 30 minut_
 
 
 # **Schůze 10 (09.04.2023)**
 
-1. **Bodování pro celý tým**
+1. **Hodnocení týmu**
 2. **Ovládání ADM**
 3. **Změna modelu případu použití a diskuse**
 4. **Přidávání nových akcí případu použití**
 
  _Délka schůzky: 30 minut_
 
+
 # **Schůze 11 (16.04.2023)**
 
 1. **Kontrola předchozího domácího úkolu**
 2. **Rozdělení rolí pro další domácí úkol**
 3. **Probírání přesných úkolů pro každého účastníka**
-4. **Přičítání bodů všem za daný týden**
+4. **Hodnocení týmu**
 
  _Délka schůzky: 25 minut_
 
@@ -152,7 +147,7 @@ _Délka schůzky: 1 hodina 10 minut_
 2. **Vytvoření diagram nasazení**
 3. **Vytvoření sekvenčních diagramů**
 4. **Přičítání bodů všem za daný týden**
-5. **Dělba práce Wireframes**
+5. **Rozdělení práce - Wireframes**
 
  _Délka schůzky: 30 minut_
 
@@ -161,7 +156,7 @@ _Délka schůzky: 1 hodina 10 minut_
 2. **Vývoj a úprava diagramu nasazení**
 3. **Vývoj a úprava sekvenčního diagramu**
 4. **Navrhování a úprava drátěných modelů, diskuse o cílech a možných nápadech oken, tvorba těchto oken pro web a telefon.**
-5. **Hodnoceni**
+5. **Hodnocení týmu**
 6. **Úprava dokumentu, změna výstupu a obrázků**
 
  _Délka schůzky: 55 minut_
