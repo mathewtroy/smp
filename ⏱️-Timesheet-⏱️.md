@@ -272,10 +272,19 @@
 | **02.04.2023** | Vypracování popisů a basic path pro Use Case model | 1.2 h |
 | **02.04.2023** | [9. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-9-02042023) | 0.5 h |
 | **03.04.2023** | 4. konzultace | 1.6 h |
+| **10.04.2023** | Sekvenční diagramy: Registrace | 2 h |
 | **16.04.2023** | [11. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-11-24032023) | 0.4 h |
 | **17.04.2023** | 5. konzultace | 1.3 h |
+| **21.04.2023** | Sekvenční diagramy: Oprava Registrace | 1.5 h |
+| **04.05.2023** | Diagram komponent | 2 h |
+| **04.05.2023** | Kompozitní diagramy: Model, App controller, Front end, Databáza | 2.3 h |
 | **23.04.2023** | [12. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-12-23042023)| 0.5 h |
 | **04.05.2023** | 6. konzultace | 1.6 h |
+| **07.05.2023** | Money transfer wire frame pre web | 1 h |
+| **07.05.2023** | Money transfer wire frame pre iphone | 1 h |
+| **07.05.2023** | Money transfer context diagram | 1.5 h |
+| **07.05.2023** | Sekvenční diagramy: Oprava Registrace | 0.3 h |
+| **07.05.2023** | Oprava Diagramu komponent | 0.2 h |
 
-##### _Celkem odpracováno: 32.8 h_
+##### _Celkem odpracováno: 44.6 h_
 
