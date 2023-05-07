@@ -110,8 +110,10 @@
 | **30.04.2023** | Vytvoření wireframes, uprava dokumentu| 2.5 h |
 | **04.05.2023** | 6. konzultace | 1.6 h |
 | **07.05.2023** | [14. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.8 h |
+| **07.05.2023** | Uprava sekvenčního diagramu login | 1.2 h |
+| **07.05.2023** | Vytvoření hlašek ve wireframes | 1 h |
 
-##### _Celkem odpracováno: 40.1 h_
+##### _Celkem odpracováno: 42.3 h_
 
 
 ## **Kononenko Mikhailo**
