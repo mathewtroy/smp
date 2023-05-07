@@ -65,8 +65,10 @@
 | **07.05.2023** | [Úprava a kontrola dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/))| 0.5 h |
 | **07.05.2023** | [Vytvoření Use Case Context diagramu](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 3.5 h |
 | **07.05.2023** | [Vytvoření chybovych hlášek](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.4 h |
+| **07.05.2023** | [Zapsání schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.4 h |
 
-##### _Celkem odpracováno: 52.1 h_
+
+##### _Celkem odpracováno: 52.5 h_
 
 
 ## **Dmytryienko Kateryna**
