@@ -67,7 +67,7 @@ _Délka schůzky: 35 minut_
       5. **Tipy pro změnu cílů a financí**
    3. **Diskuze o vytvoření prezentace** <br>
     
-## **Při osobní schůzce bez učitele**
+### **Při osobní schůzce bez učitele**
    1. **Diskuze o příštím jednání**
    2. **Rozdělení úkolů v diagraméch AS-IS**
    
