@@ -183,9 +183,10 @@
 | **04.05.2023** | 6. konzultace | 1.6 h |
 | **07.05.2023** | [Zmena wireframes](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.6 h |
 | **07.05.2023** | [Stvoření 2 use-case Context Diagram](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1.8 h |
+| **07.05.2023** | [Práce nad sekvenčním diagramem](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.4 h |
 | **07.05.2023** | Uprava documentu vize](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.4 h |
 | **07.05.2023** | [Úprava Timesheet](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.3 h |
-##### _Celkem odpracováno: 59.0 h_
+##### _Celkem odpracováno: 59.4 h_
 
 
 
