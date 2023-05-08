@@ -62,13 +62,17 @@
 | **07.05.2023** | [Úprava stranek na Wiki: Timesheet, Schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/home) | 0.7 h |
 | **07.05.2023** | [14. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.8 h |
 | **07.05.2023** | [Vytvoření wireframes](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 1 h |
-| **07.05.2023** | [Úprava a kontrola dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/))| 0.5 h |
+| **07.05.2023** | [Úprava a kontrola dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.5 h |
 | **07.05.2023** | [Vytvoření Use Case Context diagramu](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 3.5 h |
 | **07.05.2023** | [Vytvoření chybovych hlášek](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.4 h |
 | **07.05.2023** | [Zapsání schůzky](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.4 h |
+| **08.05.2023** | [Úprava stranky Timesheet](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F) | 0.4 h |
+| **08.05.2023** | [Přidávání Issue](https://gitlab.fel.cvut.cz/krossale/smp/-/issues)| 0.5 h |
+| **08.05.2023** | [Psaní Feedbacku na provedenou práci](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 1 h |
+| **08.05.2023** | [Úprava a kontrola dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 1.5 h |
 
 
-##### _Celkem odpracováno: 52.5 h_
+##### _Celkem odpracováno: 55.9 h_
 
 
 ## **Dmytryienko Kateryna**
