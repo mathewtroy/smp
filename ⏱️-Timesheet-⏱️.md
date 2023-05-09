@@ -84,8 +84,10 @@
 | **09.05.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.35 h |
 | **09.05.2023** | 7. konzultace | 1.1 h |
 | **09.05.2023** | [Přidávání Issue](https://gitlab.fel.cvut.cz/B221_B6B36ZSO/1430_naplava/1430_naplava_blue/-/issues) | 0.25 h |
+| **09.05.2023** | [Vytvoření a vyplnění tabulky "Součtová tabulka týmu"](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F#celkem-odpracov%C3%A1no) | 0.3 h |
 
-##### _Celkem odpracováno: 57.6 h_
+
+##### _Celkem odpracováno: 57.9 h_
 
 
 ## **Dmytryienko Kateryna**
