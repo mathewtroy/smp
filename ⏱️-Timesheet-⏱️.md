@@ -1,5 +1,16 @@
 ## **Součtová tabulka týmu**
 
+## **Celkem odpracováno**
+| **Jméno studenta** | **Strávený čas** |
+|-----------|------------------|
+| **Kross Aleksandr** | 57.6 h |
+| **Dmytryienko Kateryna** | 42.8 h |
+| **Kononenko Mikhailo** | 65.1 h |
+| **Andronov Nikita** | 42.3 h |
+| **Bielená Vanessa** | 44.6 h |
+| **Celkem** | 99999 h |
+
+
 
 ## **Kross Aleksandr**
 | **Datum** | **Práce** | **Počet hodin** |
