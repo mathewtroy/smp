@@ -72,8 +72,9 @@
 | **08.05.2023** | [Úprava a kontrola dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 1.5 h |
 | **09.05.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.35 h |
 | **09.05.2023** | 7. konzultace | 1.1 h |
+| **09.05.2023** | [Přidávání Issue](https://gitlab.fel.cvut.cz/B221_B6B36ZSO/1430_naplava/1430_naplava_blue/-/issues) | 0.25 h |
 
-##### _Celkem odpracováno: 57.35 h_
+##### _Celkem odpracováno: 57.6 h_
 
 
 ## **Dmytryienko Kateryna**
