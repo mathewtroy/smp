@@ -218,8 +218,14 @@
 | **07.05.2023** | [Doplnění poznatků k průběhu projektu.](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 1.1 h |
 | **07.05.2023** | [Uprava VIZE a moodle.](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.4 h |
 | **09.05.2023** | 7. konzultace | 1.1 h |
+| **10.05.2023** | [Začínáme s prezentací, vytváření vzorových stránek](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.3 h |
+| **12.05.2023** | [Uzavření úloh na gitlabu, přidání času](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.3 h |
+| **12.05.2023** | [Přidání času do dokumentu](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.3 h |
+| **12.05.2023** | [Úprava dokumentu, formátování, vytvoření popisu](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.4 h |
+| **12.05.2023** | [Zahájení práce na oponentech, rozdělení úkolů](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.3 h |
+| **12.05.2023** | [Vytváření stránek s grafy, přidávání financí do prezentace](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.5 h |
 
-##### _Celkem odpracováno: 65.1 h_
+##### _Celkem odpracováno: 67.2 h_
 
 
 
