@@ -269,7 +269,7 @@
 | **05.05.2023** | Oprava stavového diagramu | 0.5 h |
 | **05.05.2023** | Oprava sekvenčního diagramu | 2 h |
 | **07.05.2023** | [14. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.8 h |
-| **12.05.2023** | [Vytvoření Use Case Context diagramu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/58)| 3.5 h |
+| **12.05.2023** | [Vytvoření Use Case Context diagramu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/57)| 3.5 h |
 
 ##### _Celkem odpracováno: 45.8 h_
 
