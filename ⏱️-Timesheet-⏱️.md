@@ -7,8 +7,8 @@
 | **Dmytryienko Kateryna** | 42.8 h |
 | **Kononenko Mikhailo** | 65.1 h |
 | **Andronov Nikita** | 46.8 h |
-| **Bielená Vanessa** | 45.6 h |
-| **Celkem** | 257.9 h |
+| **Bielená Vanessa** | 46.1 h |
+| **Celkem** | 258.4 h |
 
 
 
@@ -286,7 +286,7 @@
 | **05.03.2023** | [Přidávání issues](link) | 0.1 h |
 | **05.03.2023** | [2. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-2-05032023) | 1 h |
 | **06.03.2023** | 1. konzultace | 1.2 h |
-| **09.03.2023** | [Vytvoření loga](link) | 2.5 h |
+| **09.03.2023** | [Vytvoření loga](link) | 3 h |
 | **10.03.2023** | [3. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-3-10032023) | 0.5 h |
 | **12.03.2023** | [Oprava Business Process Modelu](link) | 1.5 h |
 | **12.03.2023** | [4. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-4-12032023) | 0.6 h |
@@ -318,7 +318,7 @@
 | **07.05.2023** | Money transfer context diagram | 1.5 h |
 | **07.05.2023** | Sekvenční diagramy: Oprava Registrace | 0.3 h |
 | **07.05.2023** | Oprava Diagramu komponent | 0.2 h |
-| **08.05.2023** | [Psaní Feedbacku](https://gitlab.fel.cvut.cz/) | 1 h |
+| **08.05.2023** | [Psaní Feedbacku](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/40) | 1 h |
 
-##### _Celkem odpracováno: 45.6 h_
+##### _Celkem odpracováno: 46.1 h_
 
