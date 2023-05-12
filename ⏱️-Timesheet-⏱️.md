@@ -7,8 +7,8 @@
 | **Dmytryienko Kateryna** | 42.8 h |
 | **Kononenko Mikhailo** | 65.1 h |
 | **Andronov Nikita** | 46.8 h |
-| **Bielená Vanessa** | 44.6 h |
-| **Celkem** | 99999 h |
+| **Bielená Vanessa** | 45.6 h |
+| **Celkem** | 257.9 h |
 
 
 
@@ -318,6 +318,7 @@
 | **07.05.2023** | Money transfer context diagram | 1.5 h |
 | **07.05.2023** | Sekvenční diagramy: Oprava Registrace | 0.3 h |
 | **07.05.2023** | Oprava Diagramu komponent | 0.2 h |
+| **08.05.2023** | [Psaní Feedbacku](https://gitlab.fel.cvut.cz/) | 1 h |
 
-##### _Celkem odpracováno: 44.6 h_
+##### _Celkem odpracováno: 45.6 h_
 
