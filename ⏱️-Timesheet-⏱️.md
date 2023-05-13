@@ -4,11 +4,11 @@
 | **Jméno studenta** | **Strávený čas** |
 |-----------|------------------|
 | **Kross Aleksandr** | 59.5 h |
-| **Dmytryienko Kateryna** | 43.5 h |
+| **Dmytryienko Kateryna** | 45.5 h |
 | **Kononenko Mikhailo** | 67.2 h |
 | **Andronov Nikita** | 46.8 h |
 | **Bielená Vanessa** | 46.1 h |
-| **Celkem** | 263.1 h |
+| **Celkem** | 265.1 h |
 
 
 
@@ -137,8 +137,9 @@
 | **07.05.2023** | Vytvoření hlašek ve wireframes | 1 h |
 | **08.05.2023** | Přídání feedbacku | 0.5 h |
 | **12.05.2023** | Přídání popisu do wireframes pro telefon | 0.7 h |
+| **13.05.2023** | Přídání části do dokumentu oponentury | 2 h |
 
-##### _Celkem odpracováno: 43.5 h_
+##### _Celkem odpracováno: 45.5 h_
 
 
 ## **Kononenko Mikhailo**
