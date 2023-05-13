@@ -3,12 +3,12 @@
 ## **Celkem odpracováno**
 | **Jméno studenta** | **Strávený čas** |
 |-----------|------------------|
-| **Kross Aleksandr** | 59 h |
+| **Kross Aleksandr** | 59.5 h |
 | **Dmytryienko Kateryna** | 43.5 h |
 | **Kononenko Mikhailo** | 67.2 h |
 | **Andronov Nikita** | 46.8 h |
 | **Bielená Vanessa** | 46.1 h |
-| **Celkem** | 262.6 h |
+| **Celkem** | 263.1 h |
 
 
 
@@ -89,8 +89,9 @@
 | **13.05.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.3 h |
 | **13.05.2023** | [Výplnění tabulky hodnocení týmu](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/)| 0.3 h |
 | **13.05.2023** | [Výplnění tabulky _Celkem odpracováno_](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F#sou%C4%8Dtov%C3%A1-tabulka-t%C3%BDmu)| 0.2 h |
+| **13.05.2023** | [Formatování dokumentu "Oponentura"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.5 h |
 
-##### _Celkem odpracováno: 59.0 h_
+##### _Celkem odpracováno: 59.5 h_
 
 
 ## **Dmytryienko Kateryna**
@@ -274,6 +275,7 @@
 | **07.05.2023** | [14. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.8 h |
 | **12.05.2023** | [Vytvoření Use Case Context diagramu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/57)| 3.5 h |
 | **12.05.2023** | [Psaní Feedbacku na provedenou práci](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/39)| 1 h |
+
 
 ##### _Celkem odpracováno: 46.8 h_
 
