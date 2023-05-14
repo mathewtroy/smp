@@ -172,6 +172,12 @@ _Délka schůzky: 1 hodina 10 minut_
 
  _Délka schůzky: 50 minut_
 
+# **Schůze 16 (13.05.2023)**
+1. **Vytvořte dokument oponentury**
+2. **Separační práce oponentury**
+
+ _Délka schůzky: 50 minut_
+
 # **Schůze 15 (14.05.2023)**
 1. **Kontrola dokumentu oponentury**
 2. **Kontrola dokumentu vize**
