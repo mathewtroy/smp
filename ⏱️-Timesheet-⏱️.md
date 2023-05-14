@@ -93,7 +93,7 @@
 | **14.05.2023** | [15.schůzka](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-15-14052023) | 0.3 h |
 | **13.05.2023** | [Finalní formatování dokumentu "Oponentura"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.4 h |
 
-##### _Celkem odpracováno: 61.3 h_
+##### _Celkem odpracováno: 62.5 h_
 
 
 ## **Dmytryienko Kateryna**
