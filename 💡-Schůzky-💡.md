@@ -171,3 +171,10 @@ _Délka schůzky: 1 hodina 10 minut_
 5. **Hodnocení týmu**
 
  _Délka schůzky: 50 minut_
+
+# **Schůze 15 (14.05.2023)**
+1. **Kontrola dokumentu oponentury**
+2. **Kontrola dokumentu vize**
+3. **Hodnocení týmu**
+
+ _Délka schůzky: 15 minut_
