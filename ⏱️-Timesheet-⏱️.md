@@ -4,10 +4,10 @@
 | **Jméno studenta** | **Strávený čas** |
 |-----------|------------------|
 | **Kross Aleksandr** | 61.3 h |
-| **Dmytryienko Kateryna** | 45.5 h |
-| **Kononenko Mikhailo** | 67.2 h |
-| **Andronov Nikita** | 46.8 h |
-| **Bielená Vanessa** | 46.1 h |
+| **Dmytryienko Kateryna** | 45.8 h |
+| **Kononenko Mikhailo** | 67.5 h |
+| **Andronov Nikita** | 47.1 h |
+| **Bielená Vanessa** | 46.4 h |
 | **Celkem** | 265.1 h |
 
 
