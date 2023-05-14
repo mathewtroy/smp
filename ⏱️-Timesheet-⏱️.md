@@ -8,7 +8,7 @@
 | **Kononenko Mikhailo** | 67.2 h |
 | **Andronov Nikita** | 48.8 h |
 | **Bielená Vanessa** | 46.1 h |
-| **Celkem** | 265.1 h |
+| **Celkem** | 267.1 h |
 
 
 
