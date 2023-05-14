@@ -90,6 +90,7 @@
 | **13.05.2023** | [Výplnění tabulky hodnocení týmu](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/)| 0.3 h |
 | **13.05.2023** | [Výplnění tabulky _Celkem odpracováno_](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F#sou%C4%8Dtov%C3%A1-tabulka-t%C3%BDmu)| 0.2 h |
 | **13.05.2023** | [Formatování dokumentu "Oponentura"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 1.6 h |
+| **14.05.2023** | ["15.schůzka"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.3 h |
 
 ##### _Celkem odpracováno: 60.6 h_
 
@@ -138,6 +139,7 @@
 | **08.05.2023** | Přídání feedbacku | 0.5 h |
 | **12.05.2023** | Přídání popisu do wireframes pro telefon | 0.7 h |
 | **13.05.2023** | Přídání části do dokumentu oponentury | 2 h |
+| **14.05.2023** | ["15.schůzka"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.3 h |
 
 ##### _Celkem odpracováno: 45.5 h_
 
@@ -229,6 +231,7 @@
 | **12.05.2023** | [Úprava dokumentu, formátování, vytvoření popisu](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.4 h |
 | **12.05.2023** | [Zahájení práce na oponentech, rozdělení úkolů](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.3 h |
 | **12.05.2023** | [Vytváření stránek s grafy, přidávání financí do prezentace](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/edit#gid=0) | 0.5 h |
+| **14.05.2023** | ["15.schůzka"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.3 h |
 
 ##### _Celkem odpracováno: 67.2 h_
 
@@ -276,6 +279,7 @@
 | **07.05.2023** | [14. schůze](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-14-07052023)| 0.8 h |
 | **12.05.2023** | [Vytvoření Use Case Context diagramu](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/57)| 3.5 h |
 | **12.05.2023** | [Psaní Feedbacku na provedenou práci](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/39)| 1 h |
+| **14.05.2023** | ["15.schůzka"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.3 h |
 
 
 ##### _Celkem odpracováno: 46.8 h_
@@ -325,6 +329,7 @@
 | **07.05.2023** | Sekvenční diagramy: Oprava Registrace | 0.3 h |
 | **07.05.2023** | Oprava Diagramu komponent | 0.2 h |
 | **08.05.2023** | [Psaní Feedbacku](https://gitlab.fel.cvut.cz/krossale/smp/-/issues/40) | 1 h |
+| **14.05.2023** | ["15.schůzka"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.3 h |
 
 ##### _Celkem odpracováno: 46.1 h_
 
