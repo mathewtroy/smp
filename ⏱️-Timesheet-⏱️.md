@@ -89,9 +89,9 @@
 | **13.05.2023** | [Úprava dokumentu Vize](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/)| 0.3 h |
 | **13.05.2023** | [Výplnění tabulky hodnocení týmu](https://docs.google.com/spreadsheets/d/1oK2L3vhGHHI8Tjz616dxfMsdbeL0E6tLggtUnir4lek/)| 0.3 h |
 | **13.05.2023** | [Výplnění tabulky _Celkem odpracováno_](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F#sou%C4%8Dtov%C3%A1-tabulka-t%C3%BDmu)| 0.2 h |
-| **13.05.2023** | [Formatování dokumentu "Oponentura"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.5 h |
+| **13.05.2023** | [Formatování dokumentu "Oponentura"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 1.6 h |
 
-##### _Celkem odpracováno: 59.5 h_
+##### _Celkem odpracováno: 60.6 h_
 
 
 ## **Dmytryienko Kateryna**
