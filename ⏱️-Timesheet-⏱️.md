@@ -6,9 +6,9 @@
 | **Kross Aleksandr** | 64.9 h |
 | **Dmytryienko Kateryna** | 45.8 h |
 | **Kononenko Mikhailo** | 72.7 h |
-| **Andronov Nikita** | 47.1 h |
+| **Andronov Nikita** | 49.1 h |
 | **Bielená Vanessa** | 46.4 h |
-| **Celkem** | 276.9 h |
+| **Celkem** | 278.9 h |
 
 
 
