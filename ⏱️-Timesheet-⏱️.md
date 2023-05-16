@@ -3,12 +3,12 @@
 ## **Celkem odpracováno**
 | **Jméno studenta** | **Strávený čas** |
 |-----------|------------------|
-| **Kross Aleksandr** | 63.0 h |
+| **Kross Aleksandr** | 64.9 h |
 | **Dmytryienko Kateryna** | 45.8 h |
 | **Kononenko Mikhailo** | 72.7 h |
 | **Andronov Nikita** | 47.1 h |
 | **Bielená Vanessa** | 46.4 h |
-| **Celkem** | 275.0 h |
+| **Celkem** | 276.9 h |
 
 
 
@@ -94,8 +94,9 @@
 | **14.05.2023** | [15.schůzka](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%F0%9F%92%A1-Sch%C5%AFzky-%F0%9F%92%A1#sch%C5%AFze-15-14052023) | 0.3 h |
 | **13.05.2023** | [Finalní formatování dokumentu "Oponentura"](https://docs.google.com/document/d/1la8K_s2Pse_GOltbWZw4Mh7qPz51pkA1reGz7NhGjT8/) | 0.4 h |
 | **13.05.2023** | [Úprava stranky Timesheet, Kontrola tabulky "Součtová tabulka týmu"](https://gitlab.fel.cvut.cz/krossale/smp/-/wikis/%E2%8F%B1%EF%B8%8F-Timesheet-%E2%8F%B1%EF%B8%8F) | 0.5 h |
+| **16.05.2023** | [Úprava diagramu nasazení ](https://docs.google.com/document/d/1dGV6AmAFyZ3cjR65pC39ENbKH0sOvcXrMqLaCDVGh0A/) | 1.2 h |
 
-##### _Celkem odpracováno: 63.7 h_
+##### _Celkem odpracováno: 64.9 h_
 
 
 ## **Dmytryienko Kateryna**
